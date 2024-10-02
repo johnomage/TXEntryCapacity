@@ -1,9 +1,10 @@
-# Introduction
+## Introduction
 
 The Transmission Entry Capacity (TEC) Register is a record of generation projects that hold contracts for Transmission Entry Capacity (TEC) with National Grid ESO. This includes both connected projects and future connection projects, as well as projects that are directly connected to the National Electricity Transmission System (NETS) or connected at distribution level (and which have a Bilateral Embedded Generator Agreement (BEGA)). TEC is the maximum capacity in MW that a generator is permitted to export into the NETS. It is one of the two types of connection capacity included in transmission offers. The other is Connection Entry Capacity (CEC), which is the maximum potential output of a generation asset onto the NETS. CEC is often set higher than TEC to allow for changes over years in outputs without needing to adapt or modify infrastructure.
 
+<br><br>
 
-
+## Table Header Descriptions
 
 | Title                                   | Type   | Description                                                                                                                                                                                                                                                                                                                                                              | Comment                                                                 | Example                          | Unit      |
 |-----------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|----------------------------------|-----------|
@@ -21,3 +22,11 @@ The Transmission Entry Capacity (TEC) Register is a record of generation project
 | Plant Type                              | string | Indicates the fuel type contracted to connect                                                                                                                                                                                                                                                                                                                             |                                                                      | Wind Onshore                     |        |
 | Project ID                              | string | Unique Project Identifier                                                                                                                                                                                                                                                                                                                                                  |                                                                      | a0l4L0000005itE                 |        |
 | Project Number                          | string |                                   Unique Project Identifier                                                                                                                                                                                                                                                                                                                                         |                                                                         |                                  |           |
+
+<br><br>
+
+## Transmission Owners (TO)
+ - NGET - National Grid Electricity Transmission
+ - OFTO - Offshore Electricity Transmission Owner (OFTO)
+ - SHET - Scottish HydroElectric Transmission
+ - SPT  - Scottish Power Transmission
