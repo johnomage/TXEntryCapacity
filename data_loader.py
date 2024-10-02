@@ -16,21 +16,24 @@ def download_data(url="https://api.neso.energy/dataset/cbd45e54-e6e2-4a38-99f1-8
 
     Returns:
     
-        None: If the download is successful, the data is saved to the specified file.
+        None: If the download is successful, the data is saved to the specified file, and return a dataframe
         If the download fails, the function returns without any action.
     """
     resp = requests.get(url)
     os.makedirs("datastore", exist_ok=True)
+    filepath = f"./datastore/{filename}"
     
     if resp.ok:
         with open(filename, "wb") as f:
             f.write(resp.content)
+            
+        return pd.read_csv(filepath)
     else:
         return
     
 
 
-def extract_last_date_updated(url, selector):
+def extract_last_date_updated():
     """
     Extract the last updated date from a webpage using a CSS selector.
 
@@ -46,6 +49,9 @@ def extract_last_date_updated(url, selector):
             otherwise "Element not found".
         List[str]: If a request error occurs, returns a list containing the error message.
     """
+    url = 'https://www.neso.energy/data-portal/transmission-entry-capacity-tec-register'
+    selector = "div.layout-region-resources .views-field-changed.is-active"
+    
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
     }

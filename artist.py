@@ -5,6 +5,7 @@ from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import pandas as pd
 
+__all__ = ['plot_project_stat_cap', 'plot_plant_type_cap',  'plot_sunburst', 'plot_timelines', 'plot_conn_capa_dist_by_status_host']
 
 
 def plot_project_stat_cap(df):
@@ -186,7 +187,7 @@ def plot_sunburst(df):
 
 
 
-def plot_another(df: pd.DataFrame):
+def plot_plant_type_cap(df: pd.DataFrame):
     """
     Create a bar chart visualizing connection capacity by plant type and HOST TO.
 
