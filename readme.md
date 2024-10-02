@@ -30,3 +30,14 @@ The Transmission Entry Capacity (TEC) Register is a record of generation project
  - OFTO - Offshore Electricity Transmission Owner (OFTO)
  - SHET - Scottish HydroElectric Transmission
  - SPT  - Scottish Power Transmission
+
+ ---
+ <br><br>
+General Info:
+ - Source: [NESO Data Portal](https://www.neso.energy/data-portal/transmission-entry-capacity-tec-register)
+ - Data Licence: [NESO Open Licence](https://www.neso.energy/data-portal/neso-open-licence)
+ - Data Portal: [About the Data Portal](https://www.neso.energy/data-portal/about-data-portal)
+
+---
+<br><br>
+Contributor: [Praise](https://www.linkedin.com/in/praizerema/)
