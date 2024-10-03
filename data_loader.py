@@ -16,20 +16,19 @@ def download_data(url="https://api.neso.energy/dataset/cbd45e54-e6e2-4a38-99f1-8
 
     Returns:
     
-        None: If the download is successful, the data is saved to the specified file, and return a dataframe
-        If the download fails, the function returns without any action.
+        DataFrame: Dataframe of csv file downloaded.
     """
     resp = requests.get(url)
-    os.makedirs("datastore", exist_ok=True)
-    filepath = f"./datastore/{filename}"
     
     if resp.ok:
-        with open(filename, "wb") as f:
+        os.makedirs("datastore", exist_ok=True)
+        filepath = f"datastore/{filename}"
+        
+        with open(filepath, "wb") as f:
             f.write(resp.content)
-            
         return pd.read_csv(filepath)
     else:
-        return
+        return pd.DataFrame([])
     
 
 

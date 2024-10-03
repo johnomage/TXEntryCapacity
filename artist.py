@@ -89,8 +89,8 @@ def plot_conn_capa_dist_by_status_host(df: pd.DataFrame):
     # Update layout
     fig.update_layout(
         title_text='Connection Capacity Distribution',
-        width=1200,
-        height=700,
+        width=1000,
+        height=600,
         legend=dict(orientation='h', yanchor='bottom', y=-0.1, xanchor='center', x=0.5),
     )
 
@@ -116,43 +116,43 @@ def plot_timelines(df):
     """
     # Grouping the df by 'Connection Date'
     time_group = df.groupby(['Connection Date', 'HOST TO']).agg({
-        'Connection Cap (MW)': 'sum',
-        'Project Name': 'count',
-        'Plant Type': 'nunique',
-        'MW Change': 'sum'
-    }).reset_index()
+                                                                'Connection Cap (MW)': 'sum',
+                                                                'Project Name': 'count',
+                                                                'Plant Type': 'nunique',
+                                                                'MW Change': 'sum'
+                                                            }).reset_index()
 
     # Create a scatter plot
-    timeline_plot = px.scatter(
-        data_frame=time_group,
-        x='Connection Date',
-        y='Connection Cap (MW)',
-        size='Project Name',  
-        hover_name='Connection Date', 
-        color='HOST TO',
-        hover_df={
-            'Project Name': True,
-            'Plant Type': True,
-            'MW Change': True
-        },
-        title='Timeline of Connection Capacity, Projects, Plant Types, and MW Change',
-        labels={
-            'Connection Cap (MW)': 'Total Entry Capacity (MW)',
-            'MW Change': 'Total MW Change',
-            'Project Name': 'Number of Projects',
-            'Plant Type': 'Unique Plant Type'
-        },
-        # template='plotly_white'
-    )
+    timeline_plot = px.scatter(data_frame=time_group,
+                               x='Connection Date',
+                               y='Connection Cap (MW)',
+                               size='Project Name',  
+                               hover_name='Connection Date', 
+                               color='HOST TO',
+                               hover_data={
+                                    'Project Name': True,
+                                    'Plant Type': True,
+                                    'MW Change': True},
+                                
+                                title='Timeline of Connection Capacity, Projects, Plant Types, and MW Change',
+                                labels={
+                                    'Connection Cap (MW)': 'Total Entry Capacity (MW)',
+                                    'MW Change': 'Total MW Change',
+                                    'Project Name': 'Number of Projects',
+                                    'Plant Type': 'Unique Plant Type'
+                                },
+                                template='plotly_white'
+                            )
 
     # Update layout for improved aesthetics
-    timeline_plot.update_layout(
-        yaxis_title='Total Connection Capacity (MW)',
-        xaxis_title='Connection Date',
-        legend_title='HOST TO',
-        showlegend=True
-    )
+    timeline_plot.update_layout(yaxis_title='Total Connection Capacity (MW)',
+                                xaxis_title='Connection Date',
+                                legend_title='HOST TO',
+                                showlegend=True
+                              )
     return timeline_plot
+
+
 
 
 
@@ -206,20 +206,30 @@ def plot_plant_type_cap(df: pd.DataFrame):
                                         values="Connection Cap (MW)",
                                         fill_value=0,
                                         aggfunc="sum",
-                                        margins=True,
-                                        margins_name="Total",)
+                                        )
     
-    unpivot_capacity_by_TO_plant = (capacity_by_TO_plant.drop("Total", axis=1)
-                                .reset_index()
-                                .melt(id_vars="Plant Type",
-                                      value_name="Connection Cap (MW)",
-                                      var_name="HOST TO"))
+    unpivot_capacity_by_TO_plant = (capacity_by_TO_plant
+                                    .reset_index()
+                                    .melt(id_vars="Plant Type",
+                                        value_name="Connection Cap (MW)",
+                                        var_name="HOST TO"))
     
-    fig = px.bar(data_frame=unpivot_capacity_by_TO_plant,
+    fig = px.bar(data_frame=unpivot_capacity_by_TO_plant.sort_values(by="HOST TO"),
                  x="Plant Type",
                  y="Connection Cap (MW)",
                  color="HOST TO",
                 color_continuous_scale=px.colors.diverging.RdBu_r,
                 height=900,
+    )
+    
+    fig.update_layout(
+        title={
+            'text': "Connection Capacity by Plant Type and Host TO",
+            'y':0.95,
+            'x':0.5,
+            'xanchor': 'center',
+            'yanchor': 'top',
+            'font': {'size': 24}
+        }
     )
     return fig
