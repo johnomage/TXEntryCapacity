@@ -80,7 +80,7 @@ pip install -r requirements.txt
 | Project Number                          | string |                                   Unique Project Identifier                                                                                                                                                                                                                                                                                                                                         |                                                                         |                                  |           |
 
 <br><br>
-## Data Sources
+## Data Source
 
 The data is dynamically loaded from `NESO` website (see below) and preprocessed to ensure it is ready for visualisation. The data structure includes columns such as:
 - **HOST TO**: Transmission owners
@@ -89,7 +89,7 @@ The data is dynamically loaded from `NESO` website (see below) and preprocessed 
 - **MW Change**: Changes in megawatt capacity
 - **Connection Cap (MW)**: Total connection capacity in megawatts
 
-## Transmission Owners (TO)
+#### Transmission Owners (TO)
  - NGET - National Grid Electricity Transmission
  - OFTO - Offshore Electricity Transmission Owner (OFTO)
  - SHET - Scottish HydroElectric Transmission
@@ -98,7 +98,7 @@ The data is dynamically loaded from `NESO` website (see below) and preprocessed 
  ---
  <br><br>
 General Info:
- - Source: [NESO Data Portal](https://www.neso.energy/data-portal/transmission-entry-capacity-tec-register)
+ - Data Source: [NESO TEC Data Portal](https://www.neso.energy/data-portal/transmission-entry-capacity-tec-register)
  - Data Licence: [NESO Open Licence](https://www.neso.energy/data-portal/neso-open-licence)
  - Data Portal: [About the Data Portal](https://www.neso.energy/data-portal/about-data-portal)
 
