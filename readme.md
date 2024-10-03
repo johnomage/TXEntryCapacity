@@ -1,8 +1,64 @@
-## Introduction
+# 📊 TEC Register Dashboard
+Welcome to the Transmission Entry Capacity (TEC) Register Dashboard. This interactive web application allows users to explore and visualise transmission project data from 2019 to 2038.
 
 The Transmission Entry Capacity (TEC) Register is a record of generation projects that hold contracts for Transmission Entry Capacity (TEC) with National Grid ESO. This includes both connected projects and future connection projects, as well as projects that are directly connected to the National Electricity Transmission System (NETS) or connected at distribution level (and which have a Bilateral Embedded Generator Agreement (BEGA)). TEC is the maximum capacity in MW that a generator is permitted to export into the NETS. It is one of the two types of connection capacity included in transmission offers. The other is Connection Entry Capacity (CEC), which is the maximum potential output of a generation asset onto the NETS. CEC is often set higher than TEC to allow for changes over years in outputs without needing to adapt or modify infrastructure.
 
 <br><br>
+
+
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Data Sources](#data-sources)
+6. [Contact](#contact)
+
+## Overview
+
+This dashboard provides insights into transmission projects, including connection capacity, project status, and various plant types. Users can filter data by transmission owner, project status, and agreement type to tailor the visualisations to their needs.
+
+## Features
+
+- **Dynamic Filtering**: Filter projects by transmission owner, project status, and agreement type.
+- **Visualisations**: 
+  - Bar charts for connection capacity by plant type.
+  - Sunburst charts to visualise capacity by host TO, plant type, and project status.
+  - Doughnut charts displaying capacity distribution by project status.
+  - Timeline charts to track connection capacity over time.
+- **Data Table**: Display raw data for further analysis.
+
+## Installation
+
+To run this dashboard locally, you'll need Python and the following libraries:
+
+1. Streamlit
+2. Pandas
+3. Plotly etc
+
+You can install the required packages using pip:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/johnomage/TXEntryCapacity.git
+   cd TXEntryCapacity
+   ```
+
+2. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
+
+3. Open your web browser and navigate to `http://localhost:8501` to view the dashboard.
+
+
 
 ## Table Header Descriptions
 
@@ -24,6 +80,14 @@ The Transmission Entry Capacity (TEC) Register is a record of generation project
 | Project Number                          | string |                                   Unique Project Identifier                                                                                                                                                                                                                                                                                                                                         |                                                                         |                                  |           |
 
 <br><br>
+## Data Sources
+
+The data is dynamically loaded from `NESO` website (see below) and preprocessed to ensure it is ready for visualisation. The data structure includes columns such as:
+- **HOST TO**: Transmission owners
+- **Project Status**: Current status of the project (e.g., built, under construction)
+- **Agreement Type**: Type of agreements associated with the projects
+- **MW Change**: Changes in megawatt capacity
+- **Connection Cap (MW)**: Total connection capacity in megawatts
 
 ## Transmission Owners (TO)
  - NGET - National Grid Electricity Transmission
@@ -41,3 +105,10 @@ General Info:
 ---
 <br><br>
 Contributor: [Praise](https://www.linkedin.com/in/praizerema/)
+
+## Contact
+
+For inquiries or feedback, please reach out to:
+- **Email**: [john.e.omage@gmail.com](mailto:john.e.omage@gmail.com)
+
+Feel free to contribute to this project or report any issues. Your feedback is invaluable for enhancing the dashboard.
