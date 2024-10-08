@@ -75,7 +75,7 @@ def plot_conn_capa_dist_by_status_host(df: pd.DataFrame):
                         hoverinfo='text',
                         text=status_df['hover_text'],
                         textinfo='percent+label',
-                        hovertemplate='%{text}<extra></extra>'), 1, 1)
+                        hovertemplate='%{text}<extra></extra>'), 1, 2)
 
     fig.add_trace(go.Pie(labels=host_to_df['HOST TO'], 
                         values=host_to_df['Total'], 
@@ -84,7 +84,7 @@ def plot_conn_capa_dist_by_status_host(df: pd.DataFrame):
                         hoverinfo='text',
                         text=host_to_df['hover_text'],
                         textinfo='percent+label',
-                        hovertemplate='%{text}<extra></extra>'), 1, 2)
+                        hovertemplate='%{text}<extra></extra>'), 1, 1)
 
     # Update layout
     fig.update_layout(
