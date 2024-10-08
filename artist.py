@@ -65,7 +65,7 @@ def plot_conn_capa_dist_by_status_host(df: pd.DataFrame):
 
     # Create subplots
     fig = make_subplots(rows=1, cols=2, specs=[[{'type':'domain'}, {'type':'domain'}]],
-                        subplot_titles=('Connection Capacity by Project Status', 'Connection Capacity by HOST TO'))
+                        subplot_titles=('Connection Capacity by HOST TO', 'Connection Capacity by Project Status'))
 
     # Add traces for both pie charts
     fig.add_trace(go.Pie(labels=status_df['Project Status'], 
