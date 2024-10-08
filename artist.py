@@ -65,17 +65,18 @@ def plot_conn_capa_dist_by_status_host(df: pd.DataFrame):
 
     # Create subplots
     fig = make_subplots(rows=1, cols=2, specs=[[{'type':'domain'}, {'type':'domain'}]],
-                        subplot_titles=('Connection Capacity by HOST TO', 'Connection Capacity by Project Status'))
+                        subplot_titles=('Connection Capacity by Project Status', 'Connection Capacity by HOST TO'))
 
     # Add traces for both pie charts
     fig.add_trace(go.Pie(labels=status_df['Project Status'], 
                         values=status_df['Total'], 
+                         rotation=-110,
                         name='Project Status',
                         hole=0.45,
                         hoverinfo='text',
                         text=status_df['hover_text'],
                         textinfo='percent+label',
-                        hovertemplate='%{text}<extra></extra>'), 1, 2)
+                        hovertemplate='%{text}<extra></extra>'), 1, 1)
 
     fig.add_trace(go.Pie(labels=host_to_df['HOST TO'], 
                         values=host_to_df['Total'], 
@@ -84,7 +85,7 @@ def plot_conn_capa_dist_by_status_host(df: pd.DataFrame):
                         hoverinfo='text',
                         text=host_to_df['hover_text'],
                         textinfo='percent+label',
-                        hovertemplate='%{text}<extra></extra>'), 1, 1)
+                        hovertemplate='%{text}<extra></extra>'), 1, 2)
 
     # Update layout
     fig.update_layout(
