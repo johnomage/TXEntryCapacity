@@ -137,7 +137,7 @@ doughtnut_description = "The analysis of energy projects by connection capacity 
                          (25 projects) under construction, the data suggests a pressing need to expedite \
                          projects through approvals and construction to meet future energy demands effectively."
 add_sub_title(doughtnut_title, doughtnut_description)
-st.plotly_chart(artist.plot_conn_capa_dist_by_status_host(data))
+st.plotly_chart(artist.plot_conn_capa_dist_by_status_host(data), use_container_width=True)
 "---"
 
 
