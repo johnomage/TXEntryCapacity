@@ -70,7 +70,7 @@ def plot_conn_capa_dist_by_status_host(df: pd.DataFrame):
     # Add traces for both pie charts
     fig.add_trace(go.Pie(labels=status_df['Project Status'], 
                         values=status_df['Total'], 
-                         rotation=-110,
+                         rotation=-135,
                         name='Project Status',
                         hole=0.45,
                         hoverinfo='text',
