@@ -34,9 +34,15 @@ def plot_conn_capa_dist_by_status_host(df: pd.DataFrame):
     def create_hover_text(row, primary_col, secondary_col):
         hover_text = f"<b>{row[primary_col]}</b><br>"
         hover_text += f"<b>Total:</b> {row['Total']:.2f} MW<br>"
-        for status in sorted(df[secondary_col].unique()):
+        
+        # Filter unique values in the secondary column to only strings
+        unique_statuses = df[secondary_col].dropna().unique()
+        string_statuses = [status for status in unique_statuses if isinstance(status, str)]
+        
+        for status in sorted(string_statuses):
             if status in row.index and row[status] > 0:  # Only show non-zero values
                 hover_text += f"<b>{status}:</b> {row[status]:.2f} MW<br>"
+        
         return hover_text
 
     def create_pie_df(primary_col: str, secondary_col: str):
@@ -171,6 +177,12 @@ def plot_sunburst(df):
         
         plotly.express.sunburst: A Plotly sunburst chart visualizing connection capacity.
     """
+    
+    # Ensure relevant columns are of type string
+    df['HOST TO'] = df['HOST TO'].astype(str)
+    df['Plant Type'] = df['Plant Type'].astype(str)
+    df['Project Status'] = df['Project Status'].astype(str)
+    
     colors = ["#800080", "#2B5D18", "#FFD700", "#2CFF05"]
     sun = px.sunburst(
                     data_frame=df,

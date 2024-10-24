@@ -38,7 +38,7 @@ Alcemi Coalburn Battery Energy Storage Facility,ALCEMI STORAGE DEVELOPMENTS 4 LI
 Alcemi Devilla Battery Energy Storage Facility,ALCEMI STORAGE DEVELOPMENTS 3 LIMITED,Longannet 275kV,,0,500,500,2027-10-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005icyQAA,PRO-001453
 Alcemi Midmill BESF,ALCEMI STORAGE DEVELOPMENTS 2 LIMITED,Kintore 275kV,,0,300,300,2029-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005iaAQAQ,PRO-002014
 Alcemi Score 2 Battery Energy Storage Facility,ALCEMI STORAGE DEVELOPMENTS 5 LIMITED,Peterhead GSP,,0,500,500,2029-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005ikEQAQ,PRO-001790
-Alcemi Score Battery Energy Storage Facility,ALCEMI STORAGE DEVELOPMENTS 5 LIMITED,Alcemi Score Battery 400kV Substation,,0,500,500,2029-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005izQQAQ,PRO-001575
+Alcemi Score Battery Energy Storage Facility,ALCEMI STORAGE DEVELOPMENTS LIMITED,Alcemi Score Battery 400kV Substation,,0,500,500,2029-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005izQQAQ,PRO-001575
 Alderton PV & BESS Station,BNRG ALBION LIMITED,East Claydon 400kV Substation,,0,450,450,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wg5AAA,PRO-002764
 Allt an Tuir Renewable Energy Park,ALLT AN TUIR RENEWABLE ENERGY PARK LIMITED,Shin GSP,,0,50,50,2031-06-30,Scoping,Embedded,SHET,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,a0l4L0000005iNjQAI,PRO-001819
 Almondell Lodge BESS & Solar Development,SIRIUS ECODEV (BROXBURN) LTD,Broxburn 132/33kV,,0,50,50,2024-04-30,Consents Approved,Embedded,SPT,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iTtQAI,PRO-001667
@@ -46,7 +46,7 @@ Alverdiscott,PIVOTED POWER LLP,Alverdiscott 400kV Substation,1,0,49.9,49.9,2029-
 Alverdiscott,PIVOTED POWER LLP,Alverdiscott 400kV Substation,2,0,50.1,100,2036-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ieSQAQ,PRO-001136-2
 Alverdiscott,XLINKS 1 LTD,Alverdiscott 400kV Substation,,0,1800,1800,2030-08-30,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iwaQAA,PRO-001344
 Alverdiscott 2,XLINKS 1 LTD,Alverdiscott 400kV Substation,,0,1800,1800,2032-08-30,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iwbQAA,PRO-001345
-Alverdiscott Farm,Alverdiscott 10 Renewables Ltd,Alverdiscott 400kV Substation,,0,1000,1000,2037-04-24,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L000002yQZtQAM,PRO-002554
+Alverdiscott Farm,Alverdiscott 10 Renewables Ltd,Alverdiscott 400kV Substation,,0,1000,1000,2037-04-24,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L000002yQZtQAM,PRO-002554
 Alyth,ECODEV (ALYTH) LTD,Alyth Solar and Battery 400/132kV,1,0,450,450,2029-10-31,Scoping,Direct Connection,SHET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iZLQAY,PRO-001978-1
 Alyth,ECODEV (ALYTH) LTD,Alyth Solar and Battery 400/132kV,2,0,450,900,2033-10-31,Scoping,Direct Connection,SHET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iZLQAY,PRO-001978-2
 Alyth BESS Station,IGP INTERNATIONAL PROSPECTING LIMITED,Alyth 400kV Substation,,0,500,500,2033-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005j14QAA,PRO-002466
@@ -77,8 +77,9 @@ Ashbrook Lane BESS,Downing Renewable Developments LLP,Wymondley GSP,,0,249.9,249
 Assel Valley Extension Wind Farm,RENANTIS UK LIMITED,Maybole GSP,1,0,88,88,2032-10-30,Scoping,Direct Connection,SPT,Energy Storage System;Wind Onshore,a0l8e0000010wU7AAI,PRO-002632-1
 Assel Valley Extension Wind Farm,RENANTIS UK LIMITED,Maybole GSP,2,0,87,175,2037-10-30,Scoping,Direct Connection,SPT,Energy Storage System;Wind Onshore,a0l8e0000010wU7AAI,PRO-002632-2
 Assel Valley Wind Farm,ASSEL VALLEY WIND ENERGY LIMITED,Maybole 132/33kV,,29.95,0,29.95,,Built,Embedded,SPT,Wind Onshore,a0l4L0000005iWWQAY,PRO-000014
-Auchentiber Farm,GPC 700 Ltd,Auchentiber Farm Bess 400kV Substation,,0,700,700,2029-10-17,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000011zs9AAA,PRO-003601
+Auchentiber Farm,GPC 700 Ltd,Auchentiber Farm BESS 400kV Substation,,0,700,700,2029-10-17,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000011zs9AAA,PRO-003601
 Auchrobert Wind Farm,AUCHROBERT WIND ENERGY LIMITED,Linmill 132/33kV,,36,0,36,,Built,Embedded,SPT,Wind Onshore,a0l4L0000005iUpQAI,PRO-000016
+AULTCRAGGIE BESS,OPDE UK LIMITED,Brora GSP,,0,50,50,2034-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l8e000000TPFmAAO,PRO-003228
 Aultmore Wind Farm (2023),VATTENFALL WIND POWER LTD,Aultmore Wind Farm 132/33kV Substation,,0,105,105,2030-09-30,Scoping,Direct Connection,SHET,Wind Onshore,a0l8e000000f6JjAAI,PRO-003975
 Aurora Offshore Windfarm,AURORA FLOATING OFFSHORE WIND LIMITED,Alverdiscott 400kV Substation,,0,1000,1000,2031-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ij0QAA,PRO-001774
 Awel Y Mor Extension,AWEL Y MOR OFFSHORE WIND FARM LIMITED,Bodelwyddan 400kV Substation,1,0,574,574,2027-04-01,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ipBQAQ,PRO-000529-1
@@ -89,8 +90,8 @@ Axminster,PIVOTED POWER LLP,Axminster 400kV Substation,,0,49.9,49.9,2027-10-31,S
 Axminster - New Connection,ENSO GREEN HOLDINGS B LIMITED,Axminster 132kV Substation,,0,120,120,2029-06-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixwQAA,PRO-001356
 Ayr Energy Storage,KXP ALPHA I LIMITED,Ayr 275/33kV,,0,150,150,2027-04-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000000f3zIAAQ,PRO-003801
 Ayr Farm,NEW ENERGY PARTNERSHIP LIMITED,Ayr 275/33kV,,0,300,300,2030-08-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000011zmYAAQ,PRO-003596
-Ayre (ex Cluaran Ear - Thuath) Offshore Wind Farm,AYRE OFFSHORE WIND FARM LIMITED,Banniskirk 400kV Substation,,0,1008,1008,2033-10-31,Scoping,Direct Connection,SHET,Wind Offshore,a0l4L0000005ix0QAA,PRO-002100
-Ayrshire Grid Services Facility,FLEXIBLEGRIDPOWER LTD,Hunterston East 400kV substation,,0,0,0,2024-03-29,Scoping,Direct Connection,SPT,Reactive Compensation,a0l4L0000005ibcQAA,PRO-001090
+Ayre (ex Cluaran Ear - Thuath) Offshore Wind Farm,AYRE OFFSHORE WIND FARM LIMITED,Banniskirk 400kV Substation,,0,1008,1008,2032-10-31,Scoping,Direct Connection,SHET,Wind Offshore,a0l4L0000005ix0QAA,PRO-002100
+Ayrshire Grid Services Facility,FLEXIBLEGRIDPOWER LTD,Hunterston East 400kV substation,,0,0,0,2025-09-03,Scoping,Direct Connection,SPT,Reactive Compensation,a0l4L0000005ibcQAA,PRO-001090
 Bad a Cheo Wind Farm,RWE RENEWABLES UK SWINDON LIMITED,Mybster 3 33kV Substation,,26.65,0,26.65,,Built,Direct Connection,SHET,Wind Onshore,a0l4L0000005ilUQAQ,PRO-000018
 Baglan BESS IPC,IPC GRID CONNECTION TWO LIMITED,South Wales West Connection Node B 400kV Substation,,0,500,500,2036-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0lJ9000000blLjIAI,PRO-004816
 Baillie Greener Grid Park,STATKRAFT UK LTD,Baillie 275KV Substation,,0,48,48,2030-09-30,Scoping,Direct Connection,SHET,Energy Storage System;Reactive Compensation,a0l4L0000005ig3QAA,PRO-001701
@@ -98,6 +99,7 @@ Baillie Wind Farm,BAILLIE WINDFARM LIMITED,Dounreay GSP,,52.5,0,52.5,,Built,Embe
 Balbougie Energy Centre BEGA,Balbougie Energy Centre II Limited,Inverkeithing GSP,,0,42,42,2025-04-30,Consents Approved,Embedded,SPT,Energy Storage System,a0l4L0000005iTpQAI,PRO-002065
 Balliemeanoch PSH,ILI (Borders PSH) Ltd,Balliemeanoch 275kV Substation,,0,900,900,2034-10-31,Scoping,Direct Connection,SHET,Pump Storage,a0l4L0000005iROQAY,PRO-001901
 Ballygroggan Wind Farm,DALRIADA RENEWABLES LIMITED,Tangy IV 132KV Substation,,0,96,96,2034-10-31,Scoping,Direct Connection,SHET,Wind Onshore,a0l8e000000exU0AAI,PRO-003733
+Balrobert Farm BESS,ELGIN ENERGY ES CO LIMITED,Knocknagael 132kV Substation,,0,150,150,2032-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e000001HpUOAA0,PRO-004118
 Balvedavist 162 Battery Storage,Sun4net Ltd,Spittal 132kV Substation,,0,162,162,2027-07-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005iaJQAQ,PRO-002024
 Banc y Celyn Energy Park,Wind 2 Project 2 Limited,Future Swansea North 132kV,,0,165,165,2033-07-01,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,a0l4L0000005ia8QAA,PRO-002011
 Bankend Rig III Wind Farm,WILSON RENEWABLES III LLP,Bankend Rig III Windfarm 132/33kV Substation,,0,78,78,2030-04-30,Scoping,Direct Connection,SPT,Wind Onshore,a0l8e000000TPcZAAW,PRO-003451
@@ -105,16 +107,17 @@ Bankhead 25MW BESS,GPC 1169 Ltd,Devonside 132/33kV,,0,25,25,2030-04-30,Scoping,E
 Bankhead BESS,Apatura Battery Ltd,Eccles 400/132/33kV,,0,500,500,2036-10-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000000TPHdAAO,PRO-003236
 Bankside BESS,FALKIRK POWER LTD,Bainsford 132/33kV,,0,43,43,2024-10-31,Consents Approved,Embedded,SPT,Energy Storage System,a0l4L0000005iWYQAY,PRO-002151
 Barge Way 120MW BESS,FPC Electric Land Limited,Kemsley 132kV Substation,,0,120,120,2031-10-31,Scoping,Embedded,NGET,Energy Storage System,a0l4L0000005iX2QAI,PRO-002144
-Barking BESS,O&G Solar (SPV 52) Limited,Barking 275kV Substation,,0,99.9,99.9,2028-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000011yTTAAY,PRO-003518
+Barking BESS,O&G Solar (SPV 52) Limited,Barking 275kV Substation,,0,99.9,99.9,2028-10-31,Consents Approved,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000011yTTAAY,PRO-003518
 Barnby Solar Farm,KS SPV 75 LIMITED,Wymondley 400kV Substation,,0,249.9,249.9,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000001201CAAQ,PRO-003607
 Barrow Offshore Wind Farm,BARROW OFFSHORE WIND LIMITED,Barrow 132/33kV Offshore Substation,,90,0,90,,Built,Direct Connection,OFTO,Wind Offshore,a0l4L0000005ilXQAQ,PRO-000022
 Barton Hill,VIRIDIS 178 LIMITED,Abham GSP,,20.88,0,20.88,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iUsQAI,PRO-000024
 Battery Point BESS,Point and Sandwick Power Limited,Stornoway GSP,,0,25,25,2030-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l4L0000005iMMQAY,PRO-002335
 Beanacre BESS,Grenergy Renewables UK Limited,Melksham 132kV Substation,,0,200,200,2037-10-15,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iwoQAA,PRO-002452
-Bearsden BESS,BEARSDEN BESS LTD,Windyhill 275/132kV,,0,100,100,2028-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000012gHBAAY,PRO-004404
+Bearsden BESS,BEARSDEN BESS LTD,Windyhill 275/132kV,1,0,100,100,2029-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000012gHBAAY,PRO-004404-1
+Bearsden BESS,BEARSDEN BESS LTD,Windyhill 275/132kV,2,0,140,240,2033-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000012gHBAAY,PRO-004404-2
 Beatrice Sync Comp,TINZ PROGRAMME 1 PROJECTCO 3 LIMITED,Beatrice 400kV Substation,,0,0,0,2024-05-31,Scoping,Direct Connection,SHET,Reactive Compensation,a0l4L0000005ihiQAA,PRO-001757
 Beatrice Wind Farm,BEATRICE OFFSHORE WINDFARM LIMITED,Beatrice 400kV Substation,,588,0,588,,Built,Direct Connection,SHET,Wind Offshore,a0l4L0000005ilYQAQ,PRO-000025
-Beauly 02 BESS,Field Gaia Ltd,Beauly GSP,,0,100,100,2028-12-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e000000exTqAAI,PRO-003731
+Beauly 02 BESS,VIRMATI ENERGY LTD,Beauly GSP,,0,100,100,2028-12-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e000000exTqAAI,PRO-003731
 Beaw Field Wind Farm,BEAW FIELD SHETLAND LIMITED,Beaw Field 132/33kV Substation,,0,72,72,2028-11-30,Consents Approved,Direct Connection,SHET,Wind Onshore,a0l4L0000005iyaQAA,PRO-000026
 Beddington 1 BESS,Bluestone Energy Ltd,Beddington 132kV Substation,,0,240,240,2028-10-31,Scoping,Embedded,NGET,Energy Storage System,a0l8e000000TPAXAA4,PRO-003170
 Beddington 2 BESS,Bluestone Energy Ltd,Beddington 132kV Substation,,0,240,240,2028-10-31,Scoping,Embedded,NGET,Energy Storage System,a0l8e0000011zPIAAY,PRO-003577
@@ -197,7 +200,7 @@ Borders Solar,BUCCLEUCH ESTATES LTD. (THE),Wyseby Hill GSP,,0,228,228,2036-10-31
 Borders Wind Farm,EDF ENERGY RENEWABLES LIMITED,Borders Windfarm 132kV,,0,400,400,2033-05-30,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005iZKQAY,PRO-001977
 Botley GEC (Ethos Green),BOTLEY GREEN ENERGY CENTRE LTD,Botley 400kV Substation,,0,800,800,2033-10-31,Awaiting Consents,Direct Connection,NGET,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,a0l8e0000010wP7AAI,PRO-002580
 Botley West - Cote Solar Power Station,SOLARFIVE LTD,Botley West 400kV Substation,,0,840,840,2026-10-30,Scoping,Direct Connection,NGET,PV Array (Photo Voltaic/solar),a0l4L0000005ijzQAA,PRO-001587
-Bowdun (ex Cluaran Deas Ear) Offshore Wind Farm,BOWDUN OFFSHORE WIND FARM LIMITED,New Deer 2 400kV Substation,,0,1008,1008,2033-10-31,Scoping,Direct Connection,SHET,Wind Offshore,a0l4L0000005idoQAA,PRO-002091
+Bowdun (ex Cluaran Deas Ear) Offshore Wind Farm,BOWDUN OFFSHORE WIND FARM LIMITED,New Deer 2 400kV Substation,,0,1008,1008,2035-12-31,Scoping,Direct Connection,SHET,Wind Offshore,a0l4L0000005idoQAA,PRO-002091
 Bowsheil Solar and Battery,VOLTALIA UK LTD,Bowsheils 132kV Substation,,0,166.61,166.61,2030-05-02,Scoping,Direct Connection,SPT,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wXGAAY,PRO-002662
 Bradenham - Thetford (Necton) GEC (Ethos Green),NECTON GREEN ENERGY CENTRE LTD,Necton 400kV Substation,,0,850,850,2033-10-01,Scoping,Direct Connection,NGET,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,a0l8e000000ViFJAA0,PRO-004346
 Bradford Solar Farm,SOLARFOUR LTD,Ironbridge 400kV Substation,,0,960,960,2033-10-31,Scoping,Direct Connection,NGET,PV Array (Photo Voltaic/solar),a0l8e0000011yCAAAY,PRO-003511
@@ -219,7 +222,7 @@ Bramford 2 GEC (Ethos Green),BRAMFORD 2 GREEN ENERGY CENTRE LTD,Bramford 400kV S
 Bramford BESS,CSE33 LIMITED,South Anglia Connection Node B 400kV Substation,,0,400,400,2029-11-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005icDQAQ,PRO-002071
 Bramford GEC (Ethos Green),BRAMFORD GREEN ENERGY CENTRE LTD,Bramford 400kV Substation,,0,650,650,2033-10-30,Awaiting Consents,Direct Connection,NGET,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,a0l8e000000f8NgAAI,PRO-004027
 Bramford Tertiary,BRAMFORD GREEN LIMITED,Bramford 400kV Substation,,0,57,57,2026-05-16,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ilNQAQ,PRO-000397
-Bramley (tertiary),BRAMLEY SOLAR  LIMITED,Bramley,,0,57,57,2023-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ilOQAQ,PRO-000396
+Bramley (tertiary),BRAMLEY SOLAR  LIMITED,Bramley,,0,57,57,2026-08-15,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ilOQAQ,PRO-000396
 Bramley BESS,BRAMLEY BESS LIMITED,Bramley 400kV Substation,1,0,49.995,49.995,2025-09-29,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005igrQAA,PRO-001104-1
 Bramley BESS,BRAMLEY BESS LIMITED,Bramley 400kV Substation,2,0,7.005,57,2037-10-31,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005igrQAA,PRO-001104-2
 Bramley Farm,BRAMLEY 2 RENEWABLES LTD,Basingstoke East 400kV Substation,,0,200,200,2038-03-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wYJAAY,PRO-002675
@@ -309,7 +312,7 @@ CDCL,UNIPER UK LIMITED,Cottam 400kV Substation,,445,0,445,,Built,Direct Connecti
 Ceannacroc (part of the Moriston Cascade),SSE GENERATION LIMITED,Ceannacroc GSP,,20,0,20,,Built,Embedded,SHET,Hydro,a0l4L0000005iV7QAI,PRO-000070
 Ceislein Wind Farm,RWE RENEWABLES UK ONSHORE WIND LIMITED,Ceislien Wind Farm,,0,85.8,85.8,2031-10-31,Scoping,Direct Connection,SHET,Wind Onshore,a0l8e000000TPK3AAO,PRO-003256
 Cellarhead,ENSO GREEN HOLDINGS LIMITED,Cellarhead 400kV Substation,,0,400,400,2033-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ikWQAQ,PRO-002161
-Cellarhead 400kV Energy Storage,C & S ENERGY LIMITED,Cellarhead 400kV Substation,,0,300,300,2024-05-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005iemQAA,PRO-001685
+Cellarhead 400kV Energy Storage,C & S ENERGY LIMITED,Cellarhead 400kV Substation,,0,300,300,2026-06-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005iemQAA,PRO-001685
 Cellarhead Green Energy Centre,INNOVA RENEWABLES LIMITED,Cellarhead 400kV Substation,,0,400,400,2028-10-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ihjQAA,PRO-001758
 Cellarhead Home Farm,ECODEV GROUP LTD,Cellarhead 132kV Substation,,0,280,280,2028-10-31,Scoping,Embedded,NGET,Energy Storage System,a0l4L0000005iU7QAI,PRO-001715
 Cellarhead PV & BESS Station,IB VOGT UK LTD,Manchester South Connection Node B 400kV Substation,,0,400,400,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000TPHxAAO,PRO-003240
@@ -362,7 +365,7 @@ Clyde North,CLYDE WINDFARM (SCOTLAND) LIMITED,Clyde North 275/33kV,,374.5,0,374.
 Clyde South,CLYDE WINDFARM (SCOTLAND) LIMITED,Clyde South 275/33kV,,128.8,0,128.8,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005inEQAQ,PRO-000096
 Cnoc Buidhe Wind Farm,CNOC BUIDHE WIND ENERGY HUB LIMITED,Cnoc Buidhe 132kV/33kV Substation,1,0,150,150,2028-10-31,Scoping,Direct Connection,SHET,Energy Storage System;Wind Onshore,a0l4L0000005idTQAQ,PRO-001672-1
 Cnoc Buidhe Wind Farm,CNOC BUIDHE WIND ENERGY HUB LIMITED,Cnoc Buidhe 132kV/33kV Substation,2,0,70,220,2034-10-31,Scoping,Direct Connection,SHET,Energy Storage System;Wind Onshore,a0l4L0000005idTQAQ,PRO-001672-2
-Cockenzie BESS,ELBESS LTD,Cockenzie 400/132kV,,0,102,102,2026-07-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000001Hrm5AAC,PRO-004217
+Cockenzie BESS,CANUSIA LTD,Cockenzie 400/132kV,,0,102,102,2026-07-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000001Hrm5AAC,PRO-004217
 Cockenzie Farm 100MW BESS,GPC 1134 Ltd,Kilwinning GSP,,0,100,100,2028-08-21,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000010wavAAA,PRO-002706
 Coddington,STARLIGHT ENERGY UK LIMITED,Eaton Socon 400kV Substation,,0,240,240,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000ey6vAAA,PRO-003750
 CODDINGTON BESS,SHAW-ENERGI LTD,Coddington 400kV Substation,,0,300,300,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000ewXhAAI,PRO-003666
@@ -450,7 +453,7 @@ Daines Green Energy Centre,INNOVA RENEWABLES LIMITED,Daines 400kV Substation,,0,
 Daines NP BESS,NORIKER POWER LTD,Daines 400kV Substation,,0,500,500,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000TPCdAAO,PRO-003194
 Dalchork Farm,Greenswitch Capital Limited,Dalchork 132kV Substation,,0,200,200,2032-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e0000010wk2AAA,PRO-002807
 Dalmarnock Road BESS,DALMARNOCK BESS LTD,Dalmarnock GSP,,0,40,40,2023-10-30,Scoping,Embedded,SPT,Energy Storage System,a0l4L0000005idKQAQ,PRO-001660
-Dalmarnock Storage BESS,DALMARNOCK STORAGE LTD,Dalmarnock 275/132/33kV,,0,42,42,2030-04-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000000exgsAAA,PRO-003737
+Dalmarnock Storage BESS,VIRIDISIA LTD,Dalmarnock 275/132/33kV,,0,42,42,2030-04-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000000exgsAAA,PRO-003737
 Dalquhandy Wind Farm,DALQUHANDY WIND FARM LIMITED,Cumberhead Collector 132/33kV,,42,0,42,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005inmQAA,PRO-000117
 Dalswinton,DALSWINTON WINDFARM (SCOTLAND) LIMITED,Dumfries 132/33kV,,30,0,30,,Built,Embedded,SPT,Wind Onshore,a0l4L0000005iVLQAY,PRO-000118
 Dalswinton WindFarm Extension,DALSWINTON WINDFARM (SCOTLAND) LIMITED,Dumfries 132/33kV,,0,38.4,38.4,2029-09-30,Scoping,Embedded,SPT,Wind Onshore,a0l8e0000012ezbAAA,PRO-004393
@@ -483,9 +486,9 @@ Didcot Farm 2,Appleford 7 Renewables Limited,Didcot 400kV Substation,,0,700,700,
 Didcot High Impact Green Energy Hub (HIGEH) 1,TELIS ENERGY UK LIMITED,Didcot 400kV Substation,,0,1000,1000,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Reactive Compensation;Wind Onshore,a0l8e0000010wVoAAI,PRO-002649
 Didcot Road,TBC 001 Limited,Didcot 400kV Substation,,0,300,300,2027-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iMPQAY,PRO-002336
 Dinorwig,FIRST HYDRO COMPANY,Dinorwig 400kV Substation,,1644,0,1644,,Built,Direct Connection,NGET,Pump Storage,a0l4L0000005im8QAA,PRO-000054
-Dog Trap Lane,HD381GRE Limited,Minety 400kV Substation,,0,47.5,47.5,2025-03-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixxQAA,PRO-001626
+Dog Trap Lane,HD381GRE Limited,Minety 400kV Substation,,0,47.5,47.5,2025-03-31,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixxQAA,PRO-001626
 Dogger Bank Project 4 (Dogger Bank B),DOGGERBANK OFFSHORE WIND FARM PROJECT 2 PROJCO LIMITED,Dogger Bank 220kV Offshores,,0,1200,1200,2024-04-01,Under Construction/Commissioning,Direct Connection,NGET,Wind Offshore,a0l4L0000005imQQAQ,PRO-000410
-Dogger Bank Project A,DOGGERBANK OFFSHORE WIND FARM PROJECT 1 PROJCO LIMITED,Dogger Bank 220kV Offshores,,0,1200,1200,2023-04-01,Under Construction/Commissioning,Direct Connection,NGET,Wind Offshore,a0l4L0000005imPQAQ,PRO-000411
+Dogger Bank Project A,DOGGERBANK OFFSHORE WIND FARM PROJECT 1 PROJCO LIMITED,Dogger Bank 220kV Offshores,,1200,0,1200,,Built,Direct Connection,NGET,Wind Offshore,a0l4L0000005imPQAQ,PRO-000411
 Dogger Bank Project C,DOGGERBANK OFFSHORE WIND FARM PROJECT 3 PROJCO LIMITED,Lackenby GSP,,0,1200,1200,2025-04-01,Consents Approved,Direct Connection,NGET,Wind Offshore,a0l4L0000005imRQAQ,PRO-000409
 Dogger Bank South West (was Irish Sea),RWE RENEWABLES UK LIMITED,Wylfa 400kV Substation,,0,1500,1500,2033-04-01,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iZnQAI,PRO-001386
 Dolgarrog,RWE GENERATION UK PLC,Pentir GSP,,39,0,39,,Built,Embedded,NGET,Hydro,a0l4L0000005iVPQAY,PRO-000123
@@ -499,6 +502,7 @@ Dorenell Windfarm Extension,DORENELL WINDFARM EXTENSION LIMITED,Blackhillock 400
 Douglas West,DOUGLAS WEST WIND FARM LTD,Coalburn 400/132kV,,45,0,45,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005inrQAA,PRO-000128
 Douglas West Extension,DOUGLAS WEST EXTENSION LTD,Douglas West Extension Windfarm,,0,60,60,2025-06-30,Consents Approved,Direct Connection,SPT,Wind Onshore,a0l4L0000005ixIQAQ,PRO-000422
 Dougliehill BESS,Bluestone Energy Ltd,Devol Moor 400/132/33kV,,0,49,49,2026-10-30,Scoping,Embedded,SPT,Energy Storage System,a0l4L0000005iycQAA,PRO-002411
+Dounreay BESS,FIELD DEVCO LTD,New Dounreay 400kV substation,,0,200,200,2033-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e0000012kjJAAQ,PRO-004749
 Dove Solar,RWE RENEWABLES UK SOLAR AND STORAGE LIMITED,North Anglia Connection Node E 400kV Substation,,0,500,500,2034-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000001Hq1lAAC,PRO-004166
 Dowlais,VIRIDIS 178 LIMITED,Upperboat 132kV Substation,,21,0,21,,Built,Embedded,NGET,Thermal,a0l4L0000005iSyQAI,PRO-000948
 Downiebrae BESS,DOWNIEBRAE BESS LTD,Dalmarnock 275/132/33kV,,0,150,150,2028-04-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000000TPE0AAO,PRO-003208
@@ -515,7 +519,7 @@ Drax (Coal),DRAX POWER LIMITED,Drax 400kV Substation,,2001,0,2001,,Built,Direct 
 Drax Solar,BOOM DEVELOPMENTS LTD,Drax 400kV Substation,,0,400,400,2029-09-30,Scoping,Embedded,NGET,PV Array (Photo Voltaic/solar),a0l4L0000005iUEQAY,PRO-001759
 Drongan Battery Storage,Drongan Battery Storage Ltd,Coylton 275/132/33kV,,0,100,100,2026-10-20,Scoping,Direct Connection,SPT,Demand;Energy Storage System,a0l4L0000005ikaQAA,PRO-002287
 Druim Leathann BEGA,DRUIM LEATHANN WINDFARM LIMITED,Stornoway GSP,,0,49.7,49.7,2027-03-31,Scoping,Embedded,SHET,Wind Onshore,a0l4L0000005iSXQAY,PRO-000966
-Drum Farm Energy Storage Facility,Renewable Energy Systems Limited,Keith GSP,,0,49.9,49.9,2028-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l4L0000005iUAQAY,PRO-001726
+Drum Farm Energy Storage Facility,Drum Farm Energy Storage Limited  Novation,Keith GSP,,0,49.9,49.9,2028-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l4L0000005iUAQAY,PRO-001726
 Drum of Clunas Wind and Solar Park,BROADHAVEN DISTRIBUTION LTD,Drum of Clunas 275kV,,0,150,150,2031-10-31,Scoping,Direct Connection,SHET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000f6J0AAI,PRO-003970
 Drumfad Battery Storage System,EKU ENERGY FAUNE PROJECTS (UK) LIMITED,Helensburgh 132/33kV,,0,39.9,39.9,2027-10-31,Scoping,Embedded,SPT,Energy Storage System,a0l4L0000005iUgQAI,PRO-002419
 Drumlithie Battery Storage,DRUMLITHIE BATTERY LIMITED,Fetteresso GSP,,0,49.9,49.9,2028-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l4L0000005iUUQAY,PRO-002299
@@ -570,19 +574,21 @@ Edinbane Windfarm,VATTENFALL WIND POWER LTD,Edinbane GSP,2,0,48.6,90,2030-01-01,
 Eggborough,SSE UTILITY SOLUTIONS LIMITED,Eggborough 400kV Substation,,0,550,550,2032-06-16,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ibxQAA,PRO-002049
 Eggborough CCGT and BESS,EGGBOROUGH POWER LIMITED,Eggborough 400kV Substation,,0,2450,2450,2026-10-01,Awaiting Consents,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine);Energy Storage System;OCGT (Open Cycle Gas Turbine),a0l4L0000005iktQAA,PRO-000136
 Eggborough PV & BESS Sub,O&G Solar (SPV 47) Limited,Eggborough 400kV Substation,,0,249.9,249.9,2033-10-28,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wQtAAI,PRO-002597
-Elchies Wind Farm,ELCHIES WIND LIMITED,Elchies 132/33kV Substation,1,0,99,99,2027-06-30,Scoping,Direct Connection,SHET,Wind Onshore,a0l4L0000005ixhQAA,PRO-000151-1
-Elchies Wind Farm,ELCHIES WIND LIMITED,Elchies 132/33kV Substation,2,0,71,170,2028-06-30,Scoping,Direct Connection,SHET,Wind Onshore,a0l4L0000005ixhQAA,PRO-000151-2
+Elchies Wind Farm,ELCHIES WIND LIMITED,Elchies 132/33kV Substation,1,0,99,99,2028-11-30,Scoping,Direct Connection,SHET,Wind Onshore,a0l4L0000005ixhQAA,PRO-000151-1
+Elchies Wind Farm,ELCHIES WIND LIMITED,Elchies 132/33kV Substation,2,0,71,170,2028-11-30,Scoping,Direct Connection,SHET,Wind Onshore,a0l4L0000005ixhQAA,PRO-000151-2
 Elgin BESS,GPC 612 Ltd,Elgin GSP,,0,30,30,2028-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l8e0000010wVtAAI,PRO-002650
 Elland BESS,O&G Solar (SPV 39) Limited,Elland 132kV Substation,,0,99.9,99.9,2036-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000f4nAAAQ,PRO-003870
 Elland BESS,Pulse Clean Energy Limited,Leeds North Connection Node E,,0,249,249,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e0000011xZ7AAI,PRO-003465
 Elmya Braybrooke BESS,ELMYA RPC UK BRAYBROOKE LIMITED,Braybrooke 400kV Substation,,0,252,252,2031-10-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005ikbQAA,PRO-002427
 Elmya Dalry BESS & PV,ELMYA ENERGY UK 17 LIMITED,Hunterston 400/132kV,,0,800,800,2033-10-25,Scoping,Direct Connection,SPT,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000exYIAAY,PRO-003735
+Elmya Foxdale BESS,RPC ELMYA CARNATION DEVCO LIMITED,Trent Valley South Connection Node C 400kV Substation,,0,800,800,2034-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0lJ9000000bligIAA,PRO-004934
 Elmya Gissing BESS & PV,RPC ELMYA CARNATION DEVCO LIMITED,North Anglia Connection Node A 400kV,,0,900,900,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012jJxAAI,PRO-004657
 Elmya Grange Road,ELMYA RPC UK GRANGE ROAD LIMITED,Elmya Grange 400kV,,0,300,300,2031-10-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005il8QAA,PRO-002340
 Elmya Hunterston,ELMYA RPC UK HUNTERSTON LIMITED,Hunterston 400/132kV,,0,400,400,2029-10-09,Awaiting Consents,Direct Connection,SPT,Energy Storage System,a0l8e000000TPBVAA4,PRO-003182
 Elmya Kilworth BESS & PV,RPC ELMYA CARNATION DEVCO LIMITED,Derbyshire Connection Node H 400kV Substation,,0,850,850,2037-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012khrAAA,PRO-004739
 Elmya Melbourne BESS,ELMYA RPC UK MELBOURNE LIMITED,Thornton 400kV Substation,,0,300,300,2033-10-28,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005iylQAA,PRO-002424
 ELMYA REDNAL,ELMYA RPC UK REDNAL LIMITED,Ironbridge 400kV Substation,,0,300,300,2034-10-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005j9YQAQ,PRO-002526
+Elmya Towcester BESS,RPC ELMYA CARNATION DEVCO LIMITED,Derbyshire Connection Node I 400kV Substation,,0,550,550,2037-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0lJ9000000blLAIAY,PRO-004809
 Elstree (tertiary),ELSTREE GREEN LIMITED,Elstree 275kV Substation,1,0,49.9,49.9,2025-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iMTQAY,PRO-000400-1
 Elstree (tertiary),ELSTREE GREEN LIMITED,Elstree 275kV Substation,2,0,7.1,57,2027-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iMTQAY,PRO-000400-2
 Elstree 400MW BESS,Hillfield Energy Limited,Elstree 400kV Substation,,0,400,400,2029-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005itWQAQ,PRO-002169
@@ -596,6 +602,7 @@ Enderby BESS,EARL SHILTON ENERGY PARK LIMITED,Earl Shilton 400kV Substation,,0,2
 Enderby Farm,548 UK INVESTMENT HOLDINGS LIMITED,Earl Shilton 400kV Substation,,0,200,200,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wYsAAI,PRO-002682
 Enderby Farm 2,548 UK INVESTMENT HOLDINGS LIMITED,Earl Shilton 400kV Substation,,0,700,700,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010weEAAQ,PRO-002743
 Enderby Green Energy Centre,INNOVA RENEWABLES LIMITED,Enderby 400kV Substation,,0,1025,1025,2028-10-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005itgQAA,PRO-002177
+Enderby Solar & BESS,GREENTECH PROJECTS HOLDING UK LIMITED,Enderby 400kV Substation,,0,500,500,2037-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012hpcAAA,PRO-004540
 Enderby Tertiary,CLUMP FARM SOLAR LIMITED,Enderby 400kV Substation,,0,57,57,2024-05-01,Scoping,Direct Connection,NGET,PV Array (Photo Voltaic/solar),a0l4L0000005izzQAA,PRO-000430
 Energy Isles,ENERGY ISLES SHETLAND LIMITED,Energy Isles 132kV Substation,,0,120.3,120.3,2028-11-30,Awaiting Consents,Direct Connection,SHET,Wind Onshore,a0l4L0000005imtQAA,PRO-000447
 Enfield,UNIPER UK LIMITED,Brimsdown 132kV Substation,,442,0,442,,Built,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005ioSQAQ,PRO-000147
@@ -607,7 +614,7 @@ EPL Suffolk,EPL NEWCO9 LIMITED,Norwich Main 400kV Substation,,0,480,480,2032-10-
 Eppynt Common,GARREG FAWR ENERGY PARK LIMITED,Pont Abraham GSP,,0,189.5,189.5,2026-10-31,Scoping,Embedded,NGET,Wind Onshore,a0l4L0000005iQQQAY,PRO-001882
 Epworth PV & BESS Station,IB VOGT UK LTD,Keadby 400kV Substation,,0,150,150,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000ew2TAAQ,PRO-003644
 Equinor Celtic Sea 1,EQUINOR NEW ENERGY LIMITED,Alverdiscott 400kV Substation,,0,1000,1000,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l8e000000f8QCAAY,PRO-004037
-Equinor Celtic Sea 2,EQUINOR NEW ENERGY LIMITED,Alverdiscott 400kV Substation,,0,1000,1000,2036-12-06,Scoping,Direct Connection,NGET,Energy Storage System;Wind Offshore,a0l8e000000f8QHAAY,PRO-004038
+Equinor Celtic Sea 2,EQUINOR NEW ENERGY LIMITED,Alverdiscott 400kV Substation,,0,1000,1000,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l8e000000f8QHAAY,PRO-004038
 ER BBR Energy,ER PROJECT DEVELOPMENT CO LIMITED,Er Bbr Energy 132kV Substation,,0,50,50,2029-10-30,Scoping,Direct Connection,SPT,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000011yBvAAI,PRO-003508
 ER BR Energy,ER PROJECT DEVELOPMENT CO LIMITED,Tween Bridge 400kV,,0,1000,1000,2035-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,a0l8e000000exSTAAY,PRO-003724
 ER BRF 2 Energy,ER PROJECT DEVELOPMENT CO LIMITED,Bramford 400kV Substation,,0,249,249,2033-07-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000exSYAAY,PRO-003725
@@ -635,7 +642,7 @@ Eye Grid Services Facility,CONRAD (EYE) LIMITED,Yaxley 400kV Substation,,0,0,0,2
 Fairburn Extension Wind Farm,SSE RENEWABLES SERVICES (UK) LIMITED,Fairburn Extension 132/33kV Substation,,0,90,90,2031-10-31,Scoping,Direct Connection,SHET,Wind Onshore,a0l8e000000f7klAAA,PRO-004012
 Fairholme BESS,HB411MIN Limited,Minety 400kV Substation,,0,47.5,47.5,2025-02-28,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixgQAA,PRO-001625
 Fairmead and Yewtree Farm,Greenswitch Capital Limited,East Kent connection node A 400kV Substation,,0,240,240,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000001HxldAAC,PRO-004291
-Fallago Rig 2,EDF ENERGY RENEWABLES LIMITED,Fallago 400/33kV,,0,100,100,2028-04-30,Awaiting Consents,Direct Connection,SPT,Wind Onshore,a0l4L0000005ipGQAQ,PRO-000526
+Fallago Rig 2,EDF ENERGY RENEWABLES LIMITED,Fallago 400/33kV,,0,100,100,2029-04-30,Awaiting Consents,Direct Connection,SPT,Wind Onshore,a0l4L0000005ipGQAQ,PRO-000526
 Fallago Rig Wind Farm,FALLAGO RIG WINDFARM LIMITED,Fallago 400/33kV,,144,0,144,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005iooQAA,PRO-000155
 Fancott,SSE UTILITY SOLUTIONS LIMITED,Sundon 400kV Substation,,0,600,600,2031-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iu4QAA,PRO-002174
 Farm 100MW BESS,Apatura Battery Ltd,Thurso South 275kV Substation’,,0,100,100,2033-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e000000f6J5AAI,PRO-003971
@@ -669,10 +676,12 @@ Ffestiniog,FIRST HYDRO COMPANY,Ffestiniog 275kV Substation,,360,0,360,,Built,Dir
 Fiddes Battery Storage,FIDDES BATTERY LIMITED,Fiddes GSP,,0,30,30,2028-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l4L0000005iNsQAI,PRO-001831
 Fiddlers Ferry BESS,FIDDLERS FERRY LTD,Fiddlers Ferry 275kV Substation,,0,900,900,2037-11-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000f4xWAAQ,PRO-003897
 Field Farm,Net Zero One Limited,Staythorpe 400kv,,0,249.9,249.9,2030-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iRcQAI,PRO-001924
+Field Glenniston BESS,FIELD DEVCO LTD,Glenniston GSP,,0,200,200,2032-10-29,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000012kjiAAA,PRO-004754
 Fife 2 BESS,CARLTON POWER LIMITED,Westfield GSP,,0,49.9,49.9,2028-06-14,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005iw1QAA,PRO-002184
 Fife Battery Storage,CARLTON POWER LIMITED,Westfield GSP,,0,200,200,2031-10-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005iQVQAY,PRO-001888
 Fife Energy Centre,CAMBRIDGE POWER LIMITED,Fife Energy Centre 132kV substation,,0,100,100,2028-04-28,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005iPYQAY,PRO-001868
 Fife Grid Services,BLUEGRIDPOWER LTD,Fife Grid Services Facility 275kV Substation,,0,0,0,2024-04-12,Scoping,Direct Connection,SPT,Reactive Compensation,a0l4L0000005inRQAQ,PRO-000453
+Finlarig,SSE GENERATION LIMITED,Finlarig GSP,,0,18.5,35,2031-11-30,Scoping,Direct Connection,SHET,Hydro,a0l4L0000005immQAA,PRO-000079
 Finlarig,SSE GENERATION LIMITED,Finlarig GSP,,16.5,0,16.5,,Built,Direct Connection,SHET,Hydro,a0l4L0000005immQAA,PRO-000079
 Five Estuaries Offshore Wind Farm,FIVE ESTUARIES OFFSHORE WIND FARM LIMITED,Five Estuaries 220/66 kV Offshore Substation,,0,1080,1080,2030-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005izvQAA,PRO-000450
 Flash Solar Farm,ELEMENTS GREEN TRENT LTD,Staythorpe 400kV Substation,1,0,360,360,2026-08-30,Consents Approved,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iNYQAY,PRO-001634-1
@@ -722,7 +731,7 @@ Gleann Eoghainn,RENANTIS UK LIMITED,Edinbane 132/33kV Substation,,0,25,25,2027-1
 Glebe Energy Park,Renewable Energy Systems Limited,Yaxley 400kV Substation,,0,800,800,2032-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012j2mAAA,PRO-004619
 Glen App Windfarm,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Glen App 33kV,,32.2,0,32.2,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005imaQAA,PRO-000063
 Glen Kyllachy Wind Farm,GLEN KYLLACHY WIND FARM LIMITED,Glen Kyllachy Wind Farm Substation,,48.5,0,48.5,,Built,Direct Connection,SHET,Wind Onshore,a0l4L0000005iovQAA,PRO-000165
-Glen Lednock,Glen Lednock Wind Farm Limited,Braco GSP,,0,165,165,2031-10-31,Scoping,Direct Connection,SHET,Energy Storage System;Wind Onshore,a0l8e0000012ho5AAA,PRO-004520
+Glen Lednock,Glen Lednock Wind Farm Limited,Glen Lednock 132kV Substation,,0,165,165,2031-10-31,Scoping,Direct Connection,SHET,Energy Storage System;Wind Onshore,a0l8e0000012ho5AAA,PRO-004520
 Glen Ullinish Extension,GLEN ULLINISH WF 2 LTD,Glen Ullinish Extension 132/33kV Substation,,0,240,240,2027-04-01,Scoping,Direct Connection,SHET,Wind Onshore,a0l4L0000005iYiQAI,PRO-001346
 Glen Ullinish Wind Farm,GLEN ULLINISH WF LIMITED,Glen Ullinish 132/33kV Substation,,0,49.9,49.9,2026-10-31,Consents Approved,Direct Connection,SHET,Wind Onshore,a0l4L0000005isHQAQ,PRO-000298
 Glenchamber Wind Farm,GLENCHAMBER WIND ENERGY LIMITED,Glenluce 132/33kV,,27.5,0,27.5,,Built,Embedded,SPT,Wind Onshore,a0l4L0000005iV2QAI,PRO-000043
@@ -736,7 +745,7 @@ Glennifer Road BESS,GPC 1119 Ltd,Neilston 400/275/132kV,,0,150,150,2027-09-30,Sc
 Glenrothes BESS,GLENROTHES BESS LTD,Glenrothes 275/33kV,,0,46,46,2025-10-30,Consents Approved,Embedded,SPT,Energy Storage System,a0l4L0000005iTwQAI,PRO-002089
 Glenrothes Hybrid BESS & Solar PV,TAGENERGY DEVELOPMENT UK LIMITED,Glenrothes 275/33kV,,0,200,200,2031-10-30,Scoping,Direct Connection,SPT,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000TPJUAA4,PRO-003252
 Glens of Foudland Wind (SRO),GLENS OF FOUDLAND WIND FARM LIMITED,Keith GSP,,26,0,26,,Built,Embedded,SHET,Wind Onshore,a0l4L0000005iVzQAI,PRO-000258
-Glenshimmeroch Windfarm,ENERGYFARM UK GLENSHIMMEROCH LLP,Quantans Hill 132kV,,0,50,50,2027-08-26,Consents Approved,Direct Connection,SPT,Wind Onshore,a0l4L0000005in1QAA,PRO-000440
+Glenshimmeroch Windfarm,ENERGYFARM UK GLENSHIMMEROCH LLP,SPT Margree collector substation,,0,45,45,2027-10-31,Consents Approved,Direct Connection,SPT,Wind Onshore,a0l4L0000005in1QAA,PRO-000440
 Glenside Farm BESS,GPC 1211 Ltd,Denny North 275/132kV,,0,400,400,2028-05-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000012eVgAAI,PRO-004368
 Glentaggart 150MW BESS,BROCKWELL ENERGY LIMITED,Redshaw 400kV,,0,150,150,2030-10-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000001HpfGAAS,PRO-004145
 Glentaggart 42MW BESS,GLENTAGGART WIND LIMITED,Glentaggart WF 33kV Substation,,0,42,42,2027-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005ik6QAA,PRO-001595
@@ -744,7 +753,7 @@ Glentarken Wind Farm,SSE RENEWABLES SERVICES (UK) LIMITED,Killin GSP,,0,104,104,
 Goole Fields Wind Farm,RWE RENEWABLES UK SWINDON LIMITED,Camblesforth 66kV Substation,,32,0,32,,Built,Embedded,NGET,Wind Onshore,a0l4L0000005iVXQAY,PRO-000166
 Gordonbush Wind Farm,SSE GENERATION LIMITED,Gordonbush GSP,,108,0,108,,Built,Direct Connection,SHET,Wind Onshore,a0l4L0000005ipOQAQ,PRO-000518
 Gordonstown Hill Wind Farm,GORDONSTOWN HILL WIND FARM LIMITED,Kintore GSP,,12.5,0,12.5,,Built,Embedded,SHET,Wind Onshore,a0l4L0000005iRkQAI,PRO-000936
-Graeme Road Solar & BESS,GREENTECH PROJECTS HOLDING UK LIMITED,Ryhall 400kV Substation,,0,550,550,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012eoAAAQ,PRO-004375
+Graeme Road Solar & BESS,GREENTECH PROJECTS HOLDING UK LIMITED,Ryhall 400kV Substation,,0,550,550,2038-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012eoAAAQ,PRO-004375
 Grain,UNIPER UK LIMITED,Grain 400kV Substation,,1517,0,1517,,Built,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine);Reactive Compensation,a0l4L0000005im4QAA,PRO-000049
 Grain Energy,SECTION 31 SOLUTIONS LTD,Grain West 400kV Substation,,0,249,249,2031-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000eykaAAA,PRO-003771
 Grain North Power Station,GRAIN NORTH POWER LIMITED,Grain North 132kV Substation,,0,49.99,49.99,2023-06-30,Consents Approved,Direct Connection,NGET,Gas Reciprocating,a0l4L0000005j1SQAQ,PRO-001524
@@ -775,9 +784,9 @@ Grendon Solar & BESS,ISLAND GREEN POWER UK LIMITED,Grendon 400kV Substation,,0,5
 Gresham House Cockenzie BESS,COCKENZIE STORAGE LIMITED,Cockenzie GSP,,0,240,240,2026-07-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005iuFQAQ,PRO-002209
 Gresham House Connagill BESS,Gresham House Devco Pipeline Limited,Connagill 275kV Substation,,0,240,240,2030-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e000000TPSrAAO,PRO-003434
 Gresham House Dalmarnock BESS,Gresham House Devco Pipeline Limited,Dalmarnock 275/132/33kV,,0,300,300,2030-04-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000010wkCAAQ,PRO-002809
-Gresham House Gretna BESS,ENERGYHUBDEVELOPMENTS LIMITED,Gretna 400/132kV,,0,400,400,2031-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005il0QAA,PRO-002367
-Gresham House Kincardine BESS,ELBESS LTD,Kincardine 275kV,,0,300,300,2028-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005iyMQAQ,PRO-002368
-Gresham House Mossmoran BESS,Gresham House Asset Management Limited,Mossmorran 275/132/33kV,,0,200,200,2030-10-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005ituQAA,PRO-002395
+Gresham House Gretna BESS,ALBUSIA LTD,Gretna 400/132kV,,0,400,400,2031-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005il0QAA,PRO-002367
+Gresham House Kincardine BESS,FLAVUSIA LTD,Kincardine 275kV,,0,300,300,2028-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005iyMQAQ,PRO-002368
+Gresham House Mossmoran BESS,Gresham House Devco Pipeline Limited,Mossmorran 275/132/33kV,,0,200,200,2030-10-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005ituQAA,PRO-002395
 Gresham House Rayleigh BESS,Gresham House Asset Management Limited,Rayleigh 400kV Substation,,0,480,480,2030-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iubQAA,PRO-002115
 Greta III,GRETA III LIMITED,Drakelow 400kV Substation,,0,500,500,2029-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ikMQAQ,PRO-001803
 Gretna Synchronous Compensation,GRETNA GRID SERVICES LIMITED,Gretna 400/132kV,,0,0,0,2024-09-30,Consents Approved,Direct Connection,SPT,Reactive Compensation,a0l4L0000005ibsQAA,PRO-001444
@@ -808,8 +817,8 @@ Hare Craig Wind Farm,ENERGYFARM UK HARE CRAIG LLP,Hare Craig 33kV Substation,,0,
 Hare Hill Extension Wind Farm,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Coylton GSP,,29.75,0,29.75,,Built,Embedded,SPT,Wind Onshore,a0l4L0000005iPmQAI,PRO-000874
 Hare Hill Repowering,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Hare Hill Repowering 132/33kV Substation,,0,114,114,2029-10-31,Scoping,Direct Connection,SPT,Wind Onshore,a0l8e000000f6A6AAI,PRO-003963
 Hareshaw Rig Wind Farm,HARESHAW RIG WF LIMITED,Hopsrig Collector 132/33kV Substation,,0,40,40,2026-11-30,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005ipdQAA,PRO-000543
-Harestanes,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Harestanes 132/33kV,1,125,0,125,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005imbQAA,PRO-000064-1
-Harestanes,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Harestanes 132/33kV,2,0,38.3,163.3,2028-03-31,Under Construction/Commissioning,Direct Connection,SPT,Wind Onshore,a0l4L0000005imbQAA,PRO-000064-2
+Harestanes,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Harestanes 132/33kV,1,125,0,125,,Built,Direct Connection,SPT,Energy Storage System;Wind Onshore,a0l4L0000005imbQAA,PRO-000064-1
+Harestanes,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Harestanes 132/33kV,2,0,38.3,163.3,2028-03-31,Under Construction/Commissioning,Direct Connection,SPT,Energy Storage System;Wind Onshore,a0l4L0000005imbQAA,PRO-000064-2
 Harker Green Energy Centre,INNOVA RENEWABLES LIMITED,Harker 400kV Substation,,0,400,400,2028-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005igBQAQ,PRO-001709
 Harker PV & BESS Sub,HARKER ENERGY PARK LIMITED,Harker 400kV Substation,,0,249.9,249.9,2037-11-01,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wSpAAI,PRO-002615
 Harlaston,SSE DE SOLAR HOLDCO LIMITED,Harlaston 400kV Substation,,0,600,600,2033-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000f40fAAA,PRO-003814
@@ -869,8 +878,8 @@ Hornsea Power Station 2B,SOUNDMARK WIND LIMITED,Hornsea Platform 2B Offshore Sub
 Hornsea Power Station 2C,SONNINGMAY WIND LIMITED,Hornsea Power Station 2C Offshore platform Substation,,440,0,440,,Built,Direct Connection,NGET,Wind Offshore,a0l4L0000005istQAA,PRO-000335
 Hornsea Power Station 3,ORSTED HORNSEA PROJECT THREE (UK) LIMITED,Norwich Main 400kV Substation,1,0,2250,2250,2026-10-01,Consents Approved,Direct Connection,NGET,Energy Storage System;Wind Offshore,a0l4L0000005in7QAA,PRO-000434-1
 Hornsea Power Station 3,ORSTED HORNSEA PROJECT THREE (UK) LIMITED,Norwich Main 400kV Substation,2,0,750,3000,2028-12-31,Consents Approved,Direct Connection,NGET,Energy Storage System;Wind Offshore,a0l4L0000005in7QAA,PRO-000434-2
-Hornsea Power Station 4,ORSTED HORNSEA PROJECT FOUR LIMITED,Hornsea Offshore Platform 4 Substation,1,0,1500,1500,2027-04-01,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005in6QAA,PRO-000435-1
-Hornsea Power Station 4,ORSTED HORNSEA PROJECT FOUR LIMITED,Hornsea Offshore Platform 4 Substation,2,0,1100,2600,2028-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005in6QAA,PRO-000435-2
+Hornsea Power Station 4,ORSTED HORNSEA PROJECT FOUR LIMITED,Hornsea Offshore Platform 4 Substation,1,0,1500,1500,2028-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005in6QAA,PRO-000435-1
+Hornsea Power Station 4,ORSTED HORNSEA PROJECT FOUR LIMITED,Hornsea Offshore Platform 4 Substation,2,0,1100,2600,2029-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005in6QAA,PRO-000435-2
 Housham PV & BESS,FOSSE GREEN ENERGY LIMITED,Navenby 400kV Substation,,0,240,240,2033-05-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ivBQAQ,PRO-002254
 Humber Gateway Offshore Wind Farm,RWE RENEWABLES UK HUMBER WIND LIMITED,Humber Gateway 33/132kV Offshore Substation,,220,0,220,,Built,Direct Connection,OFTO,Wind Offshore,a0l4L0000005iqDQAQ,PRO-000214
 Hunningley Stairfoot BESS,ADD RENEWABLES NO.3 LIMITED,Hunningley 132kV Substation,,40,0,40,,Built,Embedded,NGET,Energy Storage System,a0l4L0000005iQUQAY,PRO-001887
@@ -897,16 +906,16 @@ Indian Queens,GRIDMOVE LTD,Indian Queens 400kV Substation,,0,437,437,2031-10-31,
 Indian Queens,INDIAN QUEENS POWER LIMITED,Indian Queens 400kV Substation,,140,0,140,,Built,Direct Connection,NGET,OCGT (Open Cycle Gas Turbine),a0l4L0000005iZDQAY,PRO-001372
 Indian Queens,PIVOTED POWER LLP,Indian Queens 400kV Substation,,0,47.5,47.5,2024-07-30,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005iqfQAA,PRO-000225
 Indian Queens Energy Centre,IQ ENERGY CENTRE LIMITED,Indian Queens 400kV Substation,,0,47.5,47.5,2025-05-31,Consents Approved,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iZCQAY,PRO-001371
-Innerwick BESS,ENERGYHUBDEVELOPMENTS LIMITED,Branxton 132kV,,0,170,170,2028-07-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000010wlyAAA,PRO-002828
+Innerwick BESS,Rabbit Marketing Ltd,Branxton 132kV,,0,170,170,2028-07-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000010wlyAAA,PRO-002828
 Intwood Farm BESS,Bluestone Energy Ltd,Norwich Main 132kV,,0,240,240,2033-10-31,Scoping,Embedded,NGET,Energy Storage System,a0l8e000000TPBLAA4,PRO-003180
 Invergarry (part of the Garry Cascade),SSE GENERATION LIMITED,Invergarry 132kV Substation,,20,0,20,,Built,Direct Connection,SHET,Hydro,a0l4L0000005ip0QAA,PRO-000171
 Inveroykel Wind Farm,RWE RENEWABLES UK SWINDON LIMITED,Inveroykel Wind Farm 132kV,,0,191.4,191.4,2031-10-31,Scoping,Direct Connection,SHET,Wind Onshore,a0l8e0000010wmDAAQ,PRO-002831
 IPC Grid Tremorfa,IPC GRID CONNECTION LIMITED,Imperial Park B 400kV Substation,,0,1000,1000,2036-12-06,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000eybgAAA,PRO-003765
 Iron Acton,HD000ACT LTD,Iron Acton 275kV Substation,1,0,49.9,49.9,2025-06-30,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005inOQAQ,PRO-000455-1
 Iron Acton,HD000ACT LTD,Iron Acton 275kV Substation,2,0,70.1,120,2028-10-31,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005inOQAQ,PRO-000455-2
-Iron Acton,IRON ACTON GREEN LIMITED,Iron Acton 275kV Substation,1,49.9,0,49.9,,Built,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iodQAA,PRO-000491-1
-Iron Acton,IRON ACTON GREEN LIMITED,Iron Acton 275kV Substation,2,0,49.5,99.4,2024-09-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iodQAA,PRO-000491-2
 Iron Acton,IRON ACTON GREEN LIMITED,Iron Acton 275kV Substation,3,0,20.6,120,2027-09-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iodQAA,PRO-000491-3
+Iron Acton,IRON ACTON GREEN LIMITED,Iron Acton 275kV Substation,,49.9,0,49.9,,Built,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iodQAA,PRO-000491
+Iron Acton,IRON ACTON GREEN LIMITED,Iron Acton 275kV Substation,,0,49.5,99.4,2024-09-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iodQAA,PRO-000491
 Ironbridge,IGP SOLAR 16 LIMITED,Ironbridge 400kV Substation,,0,600,600,2029-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iNVQAY,PRO-001629
 Ironbridge - New Connection,ENSO GREEN HOLDINGS F LIMITED,Ironbridge 400kV Substation,1,0,49.9,49.9,2025-06-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iyuQAA,PRO-001359-1
 Ironbridge - New Connection,ENSO GREEN HOLDINGS F LIMITED,Ironbridge 400kV Substation,2,0,49.9,99.8,2026-06-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iyuQAA,PRO-001359-2
@@ -939,13 +948,14 @@ Kearsley,PIVOTED POWER LLP,Kearsley 400kV Substation,,0,49.9,49.9,2028-10-31,Awa
 Kearsley North Green Energy Centre,INNOVA RENEWABLES LIMITED,Kearsley GSP,,0,400,400,2028-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iyfQAA,PRO-001793
 Kedrum Solar Farm,Rosside Energy Limited,Blackhillock 275kV Substation,,0,150,150,2030-05-30,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e000000TPc0AAG,PRO-003444
 Keith 132 Greener Grid Park,KEITH STORAGE SOLUTIONS LIMITED,Keith 1 132/33kV GSP Substation,1,0,0,0,,Built,Direct Connection,SHET,Energy Storage System;Reactive Compensation,a0l4L0000005ifTQAQ,PRO-001129-1
-Keith 132 Greener Grid Park,KEITH STORAGE SOLUTIONS LIMITED,Keith 1 132/33kV GSP Substation,2,0,48,48,2024-05-31,Consents Approved,Direct Connection,SHET,Energy Storage System;Reactive Compensation,a0l4L0000005ifTQAQ,PRO-001129-2
+Keith 132 Greener Grid Park,KEITH STORAGE SOLUTIONS LIMITED,Keith 1 132/33kV GSP Substation,2,0,48,48,2025-05-31,Consents Approved,Direct Connection,SHET,Energy Storage System;Reactive Compensation,a0l4L0000005ifTQAQ,PRO-001129-2
 Keith Battery Storage,KEITH RENEWABLE LIMITED,Keith 1 132/33kV GSP Substation,,0,39,39,2026-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l4L0000005iU5QAI,PRO-001742
 Keith BESS Station,IB VOGT UK LTD,Blackhillock substation,,0,400,400,2033-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e0000011z3KAAQ,PRO-003565
 Keith Hill Wind Farm,DIAMOND WIND LIMITED,Keith Hill 33kV,,4.5,0,4.5,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005irFQAQ,PRO-000251
 Keith Solar Farm,KEITH SOLAR PV LIMITED,Keith Solar Farm 275kV Substation,,0,150,150,2028-10-31,Scoping,Direct Connection,SHET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010waMAAQ,PRO-002699
 Keithick 16 Solar & BESS,SIRIUS ECODEV (KEITHICK) LTD,Coupar Angus GSP,,0,16,16,2024-06-30,Consents Approved,Embedded,SHET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iQXQAY,PRO-001890
 Keithick Estate,SIRIUS ECODEV (STIRLING) LTD,Coupar Angus GSP,,0,49.99,49.99,2024-06-30,Consents Approved,Embedded,SHET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iU3QAI,PRO-001732
+KELL440MW BESS,SMS ENERGY SERVICES LIMITED,,,0,440,440,2035-10-30,Scoping,Embedded,,Energy Storage System,a0l8e000000f65PAAQ,PRO-003956
 Kellas Wind Farm,E Power Limited,Kellas Wind Farm 132kV Substation,,0,90,90,2030-10-31,Scoping,Direct Connection,SHET,Wind Onshore,a0l4L0000005iuZQAQ,PRO-002271
 Kelloe Mains,TBC 003 LIMITED,Kelloe Mains 400kV Substation,,0,400,400,2029-11-22,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005itTQAQ,PRO-002425
 Kellwood Road BESS,Geocore Ltd,Kellwood Road 33KV,,0,40,40,2027-10-31,Scoping,Embedded,SPT,Energy Storage System,a0l8e000000exN8AAI,PRO-003710
@@ -975,6 +985,7 @@ Kingsnorth BESS NP,NORIKER POWER LTD,Kingsnorth 400kV Substation,,0,500,500,2032
 Kingsnorth Power Station,Q-Energy Sustainable Investments Ltd,Kingsnorth 400kV Substation,,0,400,400,2032-10-29,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012kfbAAA,PRO-004718
 KINKHALL266MW BESS BEGA,SMS ENERGY SERVICES LIMITED,Kinkell IDNO GSP,,0,266,266,2031-04-30,Scoping,Embedded,SPT,Energy Storage System,a0l8e000001HxasAAC,PRO-004268
 Kinmuck PV and BESS Station,IGP SOLAR 24 LIMITED,Peterhead GSP,,0,105,105,2027-05-31,Scoping,Direct Connection,SHET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ievQAA,PRO-001700
+Kinoulton Solar & BESS,GREENTECH PROJECTS HOLDING UK LIMITED,Stoke Bardolph 400kV Substation,,0,500,500,2034-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012hwCAAQ,PRO-004560
 Kirk Hill,KIRK HILL WIND FARM LIMITED,Maybole GSP,,20,0,20,,Built,Embedded,SPT,Wind Onshore,a0l4L0000005iWMQAY,PRO-000320
 Kirkby,HD001KIR LTD,Kirkby 275kV Substation,1,0,49.9,49.9,2025-09-30,Consents Approved,Direct Connection,NGET,Gas Reciprocating,a0l4L0000005iceQAA,PRO-001084-1
 Kirkby,HD001KIR LTD,Kirkby 275kV Substation,2,0,7.1,57,2037-10-30,Scoping,Direct Connection,NGET,Gas Reciprocating,a0l4L0000005iceQAA,PRO-001084-2
@@ -985,7 +996,7 @@ Kirklands Farm BESS,Apatura Battery Ltd,Westfield GSP,,0,200,200,2031-10-31,Scop
 Kirkton Wind Farm,Kirkton Wind Farm Ltd,Kirkton Wind Farm 132kV Substation,,0,60,60,2027-10-31,Scoping,Direct Connection,SHET,Wind Onshore,a0l4L0000005ikRQAQ,PRO-001811
 Knockcronal Wind Farm,Knockcronal Wind Farm Limited,Knockcronal Wind Farm 33kV Substation,,0,59.4,59.4,2028-10-30,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005ikKQAQ,PRO-001801
 Knockkippen Energy Park,Naturalis Energy Developments Ltd,Ayr 275/33kV,,0,60,60,2026-09-30,Scoping,Embedded,SPT,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,a0l4L0000005iXoQAI,PRO-001826
-Knocknagael BESS,Field Gaia Ltd,Knocknagael 132kV Substation,,0,200,200,2030-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e000000exNNAAY,PRO-003712
+Knocknagael BESS,VIRMATI ENERGY LTD,Knocknagael 132kV Substation,,0,200,200,2030-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e000000exNNAAY,PRO-003712
 Knockodhar Wind Farm,REG KNOCKODHAR LIMITED,Mark Hill 275/132/33kV,,0,120,120,2028-04-30,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005inYQAQ,PRO-000483
 Knockton Wind Farm,ORSTED ONSHORE UK LIMITED,Knockton Wind Farm 132kV Substation,,0,130.2,130.2,2033-10-31,Scoping,Direct Connection,SHET,Wind Onshore,a0l8e0000011yY5AAI,PRO-003524
 KX Alpha 1 Iron Acton,KXP ALPHA I LIMITED,Severn Connection Node A 400kv Substation,,0,99,99,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000ew2iAAA,PRO-003647
@@ -1006,6 +1017,7 @@ L48 BESS Glen App,Lower 48 Energy BESS Limited,L48 BESS Glen App,,0,200,200,2028
 Lacey's Farm BESS,Bluestone Energy Ltd,South Anglia Connection Node C 400kV Substation,,0,924,924,2033-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000001HomMAAS,PRO-004095
 Lackenby PV & BESS Station,IB VOGT UK LTD,Lackenby 275kV Substation,,0,240,240,2033-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000011yrKAAQ,PRO-003551
 Ladyfield Renewable Energy Park,Ladyfield Renewable Energy Park Ltd,Creag Dhubh 275/132/33kV,,0,68,68,2029-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005ia0QAA,PRO-002002
+Lagrae Battery Storage,LAGRAE BATTERY STORAGE LIMITED,Glenmuckloch 132kV Substation,,0,400,400,2036-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000001HrhiAAC,PRO-004214
 Lairdmannoch Energy Park,WIND 2 PROJECT 4 LIMITED,Lairdmannoch Energy Park 132kV substation,,0,100,100,2030-06-28,Scoping,Direct Connection,SPT,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,a0l8e000000eytlAAA,PRO-003781
 Lairg II Wind Farm,ENERGYFARM UK LAIRG LLP,Lairg GSP,,0,50,50,2026-10-31,Consents Approved,Direct Connection,SHET,Wind Onshore,a0l4L0000005ibkQAA,PRO-001434
 Lakeside Energy Drax,LAKESIDE ENERGY STORAGE LIMITED,Drax 132kV Substation,,0,99.9,99.9,2024-03-29,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005ifzQAA,PRO-001522
@@ -1063,7 +1075,7 @@ Lightsource Pyworthy,LIGHTSOURCE RENEWABLE UK DEVELOPMENT LIMITED,West Country C
 Lightsource Rhigos BESS,LIGHTSOURCE RENEWABLE UK DEVELOPMENT LIMITED,South Wales West Connection Node A 400kV Substation,,0,300,300,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000exSdAAI,PRO-003726
 Lightsource Shipley PV,LIGHTSOURCE RENEWABLE UK DEVELOPMENT LIMITED,Shipley Road,,0,240,240,2037-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000exIeAAI,PRO-003707
 Lightsource Threepwood,LIGHTSOURCE RENEWABLE UK DEVELOPMENT LIMITED,Gala North 400/132kV Substation,,0,150,150,2030-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000001Hq20AAC,PRO-004168
-Lightsource Yaxley PV,LIGHTSOURCE RENEWABLE UK DEVELOPMENT LIMITED,Yaxley 400kV Substation,,0,240,240,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000f4ArAAI,PRO-003837
+Lightsource Yaxley PV,LIGHTSOURCE RENEWABLE UK DEVELOPMENT LIMITED,North Anglia Connection Node E 400kV Substation,,0,240,240,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000f4ArAAI,PRO-003837
 Lime Tree Energy Park,BNRG LANGMEAD LIMITED,Friston 400kV Substation,,0,249.9,249.9,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000001HpUiAAK,PRO-004121
 Limekiln,Limekiln Extension Limited,Limekilns 132/33kV substation,,0,106,106,2024-04-30,Consents Approved,Direct Connection,SHET,Wind Onshore,a0l4L0000005itVQAQ,PRO-000515
 Lincomb Farm 120MW BESS Scheme,FPC Electric Land Limited,Bishops Wood 275kV Substation,,0,120,120,2033-06-30,Scoping,Embedded,NGET,Energy Storage System,a0l4L0000005iUbQAI,PRO-002442
@@ -1092,7 +1104,7 @@ Llyn Lort II Energy Park,Llyn Lort II Energy Park Limited,Chirk 132kV,,0,100,100
 Llŷr Floating Wind,Llŷr Floating Wind Limited,Pembroke 400kV Substation,,0,1800,1800,2031-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iZNQAY,PRO-001981
 Llywelyn Extension Offshore Wind Farm,RENANTIS UK LIMITED,Pembroke 400kV Substation,,0,1000,1000,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iySQAQ,PRO-002406
 Llywelyn Floating Offshore Wind Farm,RENANTIS UK LIMITED,Pembroke 400kV Substation,,0,300,300,2029-03-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005idPQAQ,PRO-001668
-Loch Fearna Pumped Storage,FEARNA PSH LIMITED,Loch Fearna Pumped Storage 132/18kV,,0,300,300,2029-10-31,Scoping,Direct Connection,SHET,Pump Storage,a0l8e0000010wOJAAY,PRO-002569
+Loch Fearna Pumped Storage,FEARNA PSH LIMITED,Loch Fearna Pumped Storage 132/18kV,,0,300,300,2032-10-28,Scoping,Direct Connection,SHET,Pump Storage,a0l8e0000010wOJAAY,PRO-002569
 Loch Kemp PSH Phase 2,STATERA ENERGY LIMITED,Loch Kemp 275kV substation,,0,300,300,2030-10-31,Scoping,Direct Connection,SHET,Pump Storage,a0l4L0000005iwWQAQ,PRO-002285
 Loch Kemp Pumped Storage,LOCH KEMP STORAGE LIMITED,Loch Kemp 275kV substation,,0,300,300,2027-10-31,Scoping,Direct Connection,SHET,Pump Storage,a0l4L0000005ix2QAA,PRO-001559
 Loch Liath Wind Farm,LOCH LIATH WIND FARM LIMITED,Loch Liath 132/33kV Substation,,0,99,99,2035-10-31,Scoping,Direct Connection,SHET,Wind Onshore,a0l4L0000005idSQAQ,PRO-001671
@@ -1100,7 +1112,7 @@ Loch Luichart Extension II,BLUEBELL WIND FARM LIMITED,Loch Luichart Extension II
 Loch nan Eun PSH,GLENDOE STORAGE LIMITED,Loch Nan Eun 275/18kV,,0,900,900,2029-10-31,Scoping,Direct Connection,SHET,Pump Storage,a0l4L0000005ic7QAA,PRO-002063
 Locharber,Renewable Connections Developments Limited,Arbroath GSP,,0,50,50,2032-10-31,Scoping,Embedded,SHET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000001HxceAAC,PRO-004283
 Lochay (Part of Killin Cascade Hydro Scheme),SSE GENERATION LIMITED,Lochay GSP,,47,0,47,,Built,Direct Connection,SHET,Hydro,a0l4L0000005ip2QAA,PRO-000174
-Lochgoin Solar Farm,TURBINE MARKETING SPV LIMITED,Whitelee Extension 275/33kV,,0,89,89,2024-08-01,Scoping,Direct Connection,SPT,PV Array (Photo Voltaic/solar),a0l4L0000005igoQAA,PRO-001107
+Lochgoin Solar Farm,TURBINE MARKETING SPV LIMITED,Whitelee Extension 275/33kV,,0,89,89,2027-09-29,Scoping,Direct Connection,SPT,PV Array (Photo Voltaic/solar),a0l4L0000005igoQAA,PRO-001107
 Lochluichart,LZN LIMITED,Corriemoillie 132kV Substation,,69,0,69,,Built,Direct Connection,SHET,Wind Onshore,a0l4L0000005iqhQAA,PRO-000227
 Lochore BESS,LOCHORE BESS LTD,Westfield GSP,,0,900,900,2031-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000011xxFAAQ,PRO-003483
 Loganhead Windfarm,LOGANHEAD WF LIMITED,Hopsrig Collector 132/33kV Substation,,0,36,36,2026-10-31,Awaiting Consents,Direct Connection,SPT,Wind Onshore,a0l4L0000005isNQAQ,PRO-000306
@@ -1127,14 +1139,14 @@ Lynes Common,RWE COGEN UK (HYTHE) LIMITED,Fawley 400kV Substation,,49.9,0,49.9,,
 M74 West Wind Farm,RENEWCO POWER LIMITED,M74 West Wind Farm 132kV,,0,249.9,249.9,2028-10-27,Scoping,Direct Connection,SPT,Energy Storage System;Wind Onshore,a0l4L0000005itxQAA,PRO-002398
 Mablethorpe Green Energy Centre,MABLETHORPE GREEN ENERGY CENTRE LIMITED,Mablethorpe 400kV Substation,,0,1025,1025,2033-10-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iv9QAA,PRO-002255
 Mablethorpe Storage,STATERA ENERGY LIMITED,Mablethorpe 400kV Substation,,0,1500,1500,2031-11-30,Scoping,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine);Demand,a0l4L0000005iw4QAA,PRO-001979
-Machair Offshore Wind Farm,SCOTTISHPOWER RENEWABLES (UK) LIMITED,OWF1 275/66kV Offshore Substation,,0,2000,2000,2028-04-30,Scoping,Direct Connection,SPT,Wind Offshore,a0l4L0000005iZsQAI,PRO-001392
+Machair Offshore Wind Farm,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Machair 275/66kV Offshore Substation,,0,2000,2000,2033-09-16,Scoping,Direct Connection,SPT,Wind Offshore,a0l4L0000005iZsQAI,PRO-001392
 Maentwrog,NUCLEAR DECOMMISSIONING AUTHORITY,Maentwrog GSP,,30,0,30,,Built,Embedded,NGET,Hydro,a0l4L0000005iW1QAI,PRO-000261
 Maesnant Energy Park,Maesnant Energy Park Limited,Chirk GSP,,0,150,150,2033-11-01,Scoping,Embedded,NGET,Wind Onshore,a0l4L0000005iRZQAY,PRO-001919
 Magwind,MAGNORA OFFSHORE WIND AS,New Dounreay,,0,495,495,2033-10-31,Scoping,Direct Connection,SHET,Wind Offshore,a0l4L0000005iisQAA,PRO-001766
 Malcolmwood Farm BESS,Bluestone Energy Ltd,Clydesmill 275/33kV,,0,60,60,2026-07-03,Scoping,Embedded,SPT,Energy Storage System,a0l8e000000TPCiAAO,PRO-003195
 MALTBY DEV.,Firma Vogt Solar Ltd,Thurcroft 275kV Substation,,0,400,400,2033-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010xRuAAI,PRO-003064
 Mannington,BAYWA R.E. UK LIMITED,Mannington 400kV Substation,,0,57,57,2025-05-20,Scoping,Direct Connection,NGET,PV Array (Photo Voltaic/solar),a0l4L0000005ibaQAA,PRO-001092
-Mannington,PIVOTED POWER LLP,Mannington 400kV Substation,,0,47.5,47.5,2025-11-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005ibbQAA,PRO-001091
+Mannington,PIVOTED POWER LLP,Mannington 400kV Substation,,0,49.9,49.9,2025-11-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005ibbQAA,PRO-001091
 Mannington Tertiary,MANNINGTON ENERGY CENTRE LIMITED,Mannington 400kV Substation,,0,47.5,47.5,2025-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005izWQAQ,PRO-000464
 Manor Farm Solar Park,CSE42 LIMITED,Fawley GSP,,0,150,150,2036-10-24,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005il5QAA,PRO-002337
 Marchwood,MARCHWOOD POWER LIMITED,Marchwood 400kV Substation,,920,0,920,,Built,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005iq2QAA,PRO-000202
@@ -1147,6 +1159,7 @@ Market Harborough Green Energy Hub,TELIS ENERGY UK LIMITED,Market Harborough 400
 Markinch (Rothes) Biomass CHP Plant,RWE MARKINCH LIMITED,Glenrothes GSP,,55,0,55,,Built,Embedded,SPT,Biomass,a0l4L0000005iVQQAY,PRO-000126
 Marston Farm 2,548 UK INVESTMENT HOLDINGS LIMITED,Marston Vale 400kV Substation,,0,700,700,2032-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wdzAAA,PRO-002740
 MCKRAW99MW BESS BEGA,SMS ENERGY SERVICES LIMITED,Muckraw IDNO GSP,,0,99.9,99.9,2032-06-30,Scoping,Embedded,SPT,Energy Storage System,a0l8e000001HxbCAAS,PRO-004272
+Meall Buidhe Wind Farm,MUIRDEN ENERGY LLP,Shin GSP,,0,40,40,2032-10-31,Scoping,Embedded,SHET,Wind Onshore,a0l8e000001HrCyAAK,PRO-004198
 Medway 3 Power Station,MEDWAY POWER LIMITED,Kingsnorth 400kV Substation,,0,500,500,2030-12-31,Scoping,Direct Connection,NGET,OCGT (Open Cycle Gas Turbine),a0l8e0000010wOxAAI,PRO-002578
 Medway Power Station,MEDWAY POWER LIMITED,Grain 400kV Substation,,735,175,910,2028-10-30,Built,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005iq1QAA,PRO-000203
 Meetlaw BESS,CARRAVINDOON LIMITED,Fiddes GSP,,0,49.9,49.9,2028-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l4L0000005iSsQAI,PRO-001966
@@ -1177,6 +1190,7 @@ Mid Moile Wind Farm,ENERGIEKONTOR UK LTD,Arecleoch 132/33kV,,0,99,99,2031-10-31,
 Middle Farm Chollerton,INTEGRUM RENEWABLE ENERGY LTD,Borders Connection Node A 400kV,,0,240,240,2036-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000ViF9AAK,PRO-004344
 Middle Muir Wind Farm,OnPath Energy Limited (MIDDLE MUIR WIND FARM) LIMITED,Middlemuir 132/33kV,,51,0,51,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005ishQAA,PRO-000321
 Middleton BESS,Middleton Energy Storage Limited,Middleton 400KV Substation,,0,200,200,2026-11-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005j1YQAQ,PRO-002305
+Middleton farm BESS,Bluestone Energy Ltd,Neilston 400kV Substation,,0,937,937,2033-10-25,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000001HpUdAAK,PRO-004120
 Middleton Farm Solar,Bluestone Energy Ltd,Elderslie 132/33kV,,0,38.7,38.7,2025-10-06,Scoping,Embedded,SPT,PV Array (Photo Voltaic/solar),a0l8e000000f6JtAAI,PRO-003977
 Middlewich BEGA,CONRAD (MIDDLEWICH) LIMITED,Carrington GSP (SP Manweb),,20,0,20,,Built,Embedded,NGET,Gas Reciprocating,a0l4L0000005iPhQAI,PRO-000849
 Midlands Estate Energy Park,Renewable Energy Systems Limited,West Burton 400kV Substation,,0,600,600,2029-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,a0l4L0000005iwuQAA,PRO-001945
@@ -1184,10 +1198,11 @@ Mill Hill Tertiary Connection,HB333MIL LTD,Mill Hill 275kV Substation,,0,57,57,2
 Millbrook Power,MILLBROOK POWER LIMITED,Marston Vale 400kV Substation,,0,299,299,2024-06-28,Under Construction/Commissioning,Direct Connection,NGET,OCGT (Open Cycle Gas Turbine),a0l4L0000005ilMQAQ,PRO-000373
 Millennium Wind,MILLENNIUM WIND ENERGY LIMITED,Millennium GSP,,65,0,65,,Built,Direct Connection,SHET,Wind Onshore,a0l4L0000005ipAQAQ,PRO-000530
 Milligansbush Battery Storage,Milligansbush Battery Storage Ltd,Milligansbush Battery Storage 132kV Substation,,0,200,200,2036-10-30,Scoping,Direct Connection,SPT,Demand;Energy Storage System,a0l8e000000TPSXAA4,PRO-003430
-Millmoor Rig Wind Farm,ESB ASSET DEVELOPMENT UK LIMITED,Hawick 132/33kV,,0,92.8,92.8,2029-10-30,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005iYMQAY,PRO-001936
+Millmoor Rig Wind Farm,ESB ASSET DEVELOPMENT UK LIMITED,Hawick GSP,,0,92.8,92.8,2029-10-30,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005iYMQAY,PRO-001936
 Minety,HB411MIN Limited,Minety 400kV Substation,,0,47.5,47.5,2024-10-31,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005inPQAQ,PRO-000454
 Minety Tertiary (2),JBM SOLAR PROJECTS 14 LTD,Minety GSP,,0,47.5,47.5,2024-10-30,Scoping,Direct Connection,NGET,PV Array (Photo Voltaic/solar),a0l4L0000005inQQAQ,PRO-000432
 Minnygap,MINNYGAP ENERGY LIMITED,Moffat GSP,,25,0,25,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005irJQAQ,PRO-000262
+Minnygryle Burn Energy Park,Wind 2 Project 6 Limited,Glenlee 132/11kV,,0,84,84,2036-10-31,,Direct Connection,SPT,Energy Storage System;Wind Onshore,a0l8e000001HrDXAA0,PRO-004204
 Minsca,MINSCA WINDFARM (SCOTLAND) LIMITED,Chapelcross GSP,,37.5,0,37.5,,Built,Embedded,SPT,Wind Onshore,a0l4L0000005iVoQAI,PRO-000236
 Moel y Llyn,Waun Hesgog Energy Park Limited,Chirk GSP,,0,251,251,2027-02-04,Scoping,Embedded,NGET,Wind Onshore,a0l4L0000005iUMQAY,PRO-001585
 Moelfre Energy Park,MOELFRE ENERGY PARK LIMITED,Bodelwyddan 400kV Substation,,0,158.4,158.4,2026-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iekQAA,PRO-001500
@@ -1216,8 +1231,8 @@ Morven A Offshore Wind Farm (Prev Phoenix 1A),Morven Offshore Wind Limited,Phoen
 Morwind 300,Morwind Ltd,Alverdiscott 400kV Substation,,0,300,300,2031-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ixtQAA,PRO-001787
 Mosedale Energy,MOSEDALE ENERGY LIMITED,High Marnham 400kV Substation,,0,249,249,2033-03-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ivUQAQ,PRO-002319
 Mossford (part of the Conon Cascade),SSE GENERATION LIMITED,Mossford GSP,,18.7,0,18.7,,Built,Direct Connection,SHET,Hydro,a0l4L0000005ipQQAQ,PRO-000176
-Mossmorran Storage BESS,MOSSMORRAN STORAGE LTD,Mossmorran 275/132/33kV,,0,100,100,2031-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000000exgxAAA,PRO-003738
-Mossy Hill Wind Farm,MOSSY HILL SHETLAND LIMITED,Mossy Hill 132kV Substation,,0,48,48,2027-04-01,Consents Approved,Direct Connection,SHET,Wind Onshore,a0l4L0000005iwmQAA,PRO-000461
+Mossmorran Storage BESS,RUFUSIA LTD,Mossmorran 275/132/33kV,,0,100,100,2031-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000000exgxAAA,PRO-003738
+Mossy Hill Wind Farm,MOSSY HILL SHETLAND LIMITED,Mossy Hill 132kV Substation,,0,48,48,2028-11-30,Consents Approved,Direct Connection,SHET,Demand;Wind Onshore,a0l4L0000005iwmQAA,PRO-000461
 Mountain Fen,LIGHTSOURCE SPV 204 LIMITED,Coddington 400kV Substation,,0,240,240,2034-09-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000f4x7AAA,PRO-003891
 Moy Wind Farm,ENECO MOY LIMITED,Inverness GSP,,60,0,60,,Built,Embedded,SHET,Wind Onshore,a0l4L0000005iVmQAI,PRO-000232
 Muaitheabhal Wind Farm,UISENIS POWER LIMITED,Muaitheabhal 132/33kV Substation,,0,189,189,2030-10-31,Consents Approved,Direct Connection,SHET,Wind Onshore,a0l4L0000005iroQAA,PRO-000272
@@ -1225,6 +1240,7 @@ Muir Mhor Offshore Wind Farm,MUIR MHÒR OFFSHORE WIND FARM LIMITED,Cirrus Offsho
 Murphy Distribution Centre Ocker Hill,Gresham House Devco Pipeline Limited,Ocker Hill 275kV Substation,,0,240,240,2027-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iuBQAQ,PRO-002213
 Murroch BESS,Apatura Battery Ltd,Strathleven GSP,,0,200,200,2031-05-22,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000001205eAAA,PRO-003610
 Mwdwl Eithin Energy Park,MOEL CHWA ENERGY PARK LIMITED,Gwyddelwern 400kV Substation,,0,81.2,81.2,2026-10-31,Scoping,Direct Connection,NGET,Wind Onshore,a0l4L0000005ifqQAA,PRO-001511
+Mybster 2 Battery Storage,POTENCIA ENERGY LIMITED,Mybster 3 132/33kV Substation,,0,500,500,2034-10-31,,Direct Connection,SHET,Energy Storage System,a0l8e0000012gsmAAA,PRO-004479
 Nant,SSE GENERATION LIMITED,Nant 132kV Substation,,15,0,15,,Built,Direct Connection,SHET,Hydro,a0l4L0000005ipRQAQ,PRO-000177
 Nant Aman,NANT AMAN ENERGY PARK LIMITED,Rhigos 400kV Substation,,0,143,143,2028-10-01,Scoping,Direct Connection,NGET,Wind Onshore,a0l4L0000005iNcQAI,PRO-001640
 Nant Ceiment Energy Park,NANT CEIMENT ENERGY PARK LIMITED,Pont Abraham GSP,,0,88.4,88.4,2027-09-11,Scoping,Embedded,NGET,Wind Onshore,a0l4L0000005iP5QAI,PRO-001610
@@ -1242,8 +1258,8 @@ Natpower Upsall Green Energy Park,NP SPV 21 LIMITED,Upsall 400kV substation,,0,1
 Navenby Farm,CODDINGTON 10 RENEWABLES LTD,Coddington 400kV Substation,,0,1000,1000,2034-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000001HnxlAAC,PRO-004045
 Navenby GEC (Ethos Green),NAVENBY GREEN ENERGY CENTRE LTD,Navenby 400kV Substation,,0,580,580,2033-10-30,Awaiting Consents,Direct Connection,NGET,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,a0l8e000000f5Y8AAI,PRO-003936
 Neart Na Gaoithe Offshore Wind Farm,NEART NA GAOITHE OFFSHORE WIND LIMITED,Neart Na Gaoithe 220/66KV Offshore Substation,,0,448,448,2023-06-01,Consents Approved,Direct Connection,SPT,Wind Offshore,a0l4L0000005irpQAA,PRO-000273
-Necton Greener Grid Park,STATKRAFT UK LTD,Necton 400kV Substation,1,0,0,0,2026-10-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System;Reactive Compensation,a0l4L000002yQb1QAE,PRO-002562-1
-Necton Greener Grid Park,STATKRAFT UK LTD,Necton 400kV Substation,2,0,78,78,2032-10-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System;Reactive Compensation,a0l4L000002yQb1QAE,PRO-002562-2
+Necton Greener Grid Park,Necton Grid Solutions Limited,Necton 400kV Substation,1,0,0,0,2026-10-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System;Reactive Compensation,a0l4L000002yQb1QAE,PRO-002562-1
+Necton Greener Grid Park,Necton Grid Solutions Limited,Necton 400kV Substation,2,0,78,78,2032-10-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System;Reactive Compensation,a0l4L000002yQb1QAE,PRO-002562-2
 Neilston 132kV Greener Grid Park,Neilston Energy Limited,Neilston 400/275/132kV,1,0,50,50,2024-05-31,Scoping,Direct Connection,SPT,Energy Storage System;Reactive Compensation,a0l4L0000005iYhQAI,PRO-001343-1
 Neilston 132kV Greener Grid Park,Neilston Energy Limited,Neilston 400/275/132kV,2,0,100,150,2025-10-31,Scoping,Direct Connection,SPT,Energy Storage System;Reactive Compensation,a0l4L0000005iYhQAI,PRO-001343-2
 Neilston 400kV Greener Grid Park,STATKRAFT UK LTD,Neilston 400kV Substation,,0,600,600,2027-05-17,Scoping,Direct Connection,SPT,Energy Storage System;Reactive Compensation,a0l4L0000005iasQAA,PRO-001419
@@ -1256,16 +1272,19 @@ NEL Springfield,Newton Energi Limited,Ferrybridge B GSP,,0,240,240,2035-10-30,Sc
 NEL Story,STORY FUTURE ENERGY LIMITED,Harker 400kV Substation,,0,240,240,2037-11-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000f5rSAAQ,PRO-003940
 NEL Suggit,Newton Energi Limited,Saltend North GSP,,0,240,240,2035-10-30,Scoping,Embedded,NGET,Energy Storage System,a0l8e0000012gYMAAY,PRO-004412
 NEL Tiger,Newton Energi Limited,Ferrybridge B 132kV Substation,,0,200,200,2035-10-30,Scoping,Embedded,NGET,Energy Storage System,a0l8e0000010wkqAAA,PRO-002815
-Net Zero Teesside Power Project,NET ZERO TEESSIDE POWER LIMITED,Tod Point 275kV Substation,,0,860,860,2026-04-30,Awaiting Consents,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005iyzQAA,PRO-001400
-Nethercourt Solar & BESS Farm,GREENTECH PROJECTS HOLDING UK LIMITED,Nethercourt Substation,,0,240,240,2035-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000TPXJAA4,PRO-003437
+Net Zero Teesside Power Project,NET ZERO TEESSIDE POWER LIMITED,Tod Point 275kV Substation,,0,860,860,2027-07-30,Consents Approved,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005iyzQAA,PRO-001400
+Nether Pitforthie BESS,OPDE UK LIMITED,Fiddes GSP,,0,50,50,2032-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l8e000000TPFcAAO,PRO-003226
+Nethercourt Solar & BESS Farm,GREENTECH PROJECTS HOLDING UK LIMITED,Nethercourt Substation,,0,240,240,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000TPXJAA4,PRO-003437
 New Cumnock BESS,NEW CUMNOCK BESS LTD,New Cumnock 275/132kV Substation,,0,450,450,2033-10-30,Scoping,Direct Connection,SPT,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000011xxPAAQ,PRO-003485
+New Deer 2 BESS,FIELD DEVCO LTD,New Deer 2 400kV Substation,,0,200,200,2033-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e0000012kk2AAA,PRO-004758
 New Deer Battery Storage,WEAVER POWER LIMITED,New Deer 400kV Substation,,0,500,500,2033-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005ixLQAQ,PRO-001987
 New Deer BESS Station,IGP SOLAR 25 LIMITED,New Deer 2 400kV Substation,,0,500,500,2033-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005iPMQAY,PRO-001856
 New Marton Solar Farm - PVDP,SOLARFOUR LTD,Legacy 400kV Substation,,0,780,780,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000001HpecAAC,PRO-004139
 Newark BESS,SSE DE SOLAR HOLDCO LIMITED,Cottam 400kV Substation,,0,600,600,2033-09-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L000002yQa3QAE,PRO-002556
-Newarthill Energy Park,Geocore (Newarthill) Ltd,Newarthill Energy Park 275kV Substation,,0,250,250,2027-10-28,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005jACQAY,PRO-002532
+Newarthill Energy Park,Geocore (Newarthill) Ltd,Newarthill Energy Park 275kV Substation,,0,300,300,2027-10-28,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005jACQAY,PRO-002532
 Newchurch,SSE UTILITY SOLUTIONS LIMITED,Newchurch 400kV Substation,,0,400,400,2031-10-04,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ic4QAA,PRO-002056
 Newlands Hill Wind Energy Hub,NEWLANDS HILL WIND ENERGY HUB LIMITED,Newlands Hill 132/33kV,,0,119,119,2029-04-30,Scoping,Direct Connection,SPT,Energy Storage System;Wind Onshore,a0l4L000002yQY7QAM,PRO-002549
+Newton of Park BESS 2,OPDE UK LIMITED,Nairn GSP,,0,50,50,2028-01-31,Scoping,Embedded,SHET,Energy Storage System,a0l8e0000011z1iAAA,PRO-003562
 Newtonwood BESS,NEWTONWOOD ENERGY STORAGE LIMITED,Chesterfield GSP,,0,49.9,49.9,2023-08-15,Under Construction/Commissioning,Embedded,NGET,Energy Storage System,a0l8e000001HpwkAAC,PRO-004156
 Nicolton Road BESS,Apatura Battery Ltd,Nicolton Road 275kV Substation,,0,250,250,2030-10-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000000TPHTAA4,PRO-003234
 Ninfield,Ninfield 10 Renewables Limited,Sussex and Romney Connection Node A 400kV Substation,,0,1000,1000,2030-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000TPQqAAO,PRO-003408
@@ -1298,6 +1317,7 @@ Norwich Main BESS,LONG STRATTON ENERGY PARK LIMITED,Norwich Main 400kV Substatio
 Norwich Yare,ASHGREEN ENERGY FARM LIMITED,Norwich GSP,,0,49.5,49.5,2024-10-31,Consents Approved,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005icmQAA,PRO-001076
 Noventum - Astwood,NOVENTUM POWER SOLAR 12 LIMITED,West Anglia Connection Node C 400kV Substation,,0,480,480,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012j9PAAQ,PRO-004635
 Noventum - Biggleswade,NOVENTUM POWER SOLAR 7 LIMITED,Biggleswade 400kV Substation,,0,249,249,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000ViASAA0,PRO-004337
+Noventum - Budby,NOVENTUM POWER SOLAR 15 LIMITED,Trent Valley South Connection Node D 400kV Substation,,0,380,380,2035-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012jJEAAY,PRO-004652
 Noventum - Stocksbridge,NOVENTUM POWER SOLAR 14 LIMITED,Leeds South Connection Node C 400kV Substation,,0,410,410,2035-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e0000012jKHAAY,PRO-004661
 Noventum Cottered,NOVENTUM POWER SOLAR 5 LIMITED,West Anglia Connection Node D 400kV Substation,,0,210,210,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000001Hom7AAC,PRO-004092
 Noventum Hawthorn Pit,NOVENTUM POWER SOLAR 2 LIMITED,Wearside Connection Node B 400kV Substation,,0,57,57,2035-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e000000eySmAAI,PRO-003757
@@ -1361,7 +1381,7 @@ Pelham BESS,PELHAM ENERGY PARK LIMITED,Pelham 400kV Substation,,0,249.9,249.9,20
 Pelham Farm 2,548 UK INVESTMENT HOLDINGS LIMITED,Pelham 400kV Substation,,0,700,700,2032-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010we9AAA,PRO-002742
 Pelham GEC (Ethos Green),PELHAM GREEN ENERGY CENTRE LTD,Pelham 400kV Substation,,0,480,480,2035-05-31,Awaiting Consents,Direct Connection,NGET,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,a0l8e000000f7xsAAA,PRO-004021
 Pembroke (spare bay),ENSO GREEN HOLDINGS LIMITED,Pembroke 132kV Substation,,0,120,120,2026-10-30,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iokQAA,PRO-000538
-Pembroke BESS,RWE GENERATION UK PLC,Pembroke 400kV Substation,,0,350,350,2026-10-01,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005iyYQAQ,PRO-000337
+Pembroke BESS,RWE GENERATION UK PLC,Pembroke 400kV Substation,,0,350,350,2027-10-29,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005iyYQAQ,PRO-000337
 Pembroke BESS and Solar Station,Renesola Hercules Energy 1 Ltd,Pembroke 400kV Substation,,0,99.9,99.9,2028-10-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ia1QAA,PRO-002003
 Pembroke Power Station,RWE GENERATION UK PLC,Pembroke 400kV Substation,,2199,0,2199,,Built,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005imAQAQ,PRO-000056
 Pen Y Cymoedd Wind Farm,PEN Y CYMOEDD WIND FARM LIMITED,Rhigos 400kV Substation,,228,0,228,,Built,Direct Connection,NGET,Wind Onshore,a0l4L0000005iwNQAQ,PRO-000217
@@ -1392,7 +1412,7 @@ Petroc Offshore Wind Farm,BLUEFLOAT ENERGY UK HOLDINGS LIMITED,Alverdiscott 400k
 Phoenix 1B Offshore Wind Farm,BP ALTERNATIVE ENERGY INVESTMENTS LIMITED,Phoenix 1B 275/66kV Offshore Substation,,0,1500,1500,2033-10-31,Scoping,Direct Connection,SPT,Wind Offshore,a0l4L0000005izKQAQ,PRO-001519
 Pillswood BESS Phase 1,Harmony (PW) Limited,Creyke Beck GSP,,49.9,0,49.9,,Built,Embedded,NGET,Energy Storage System,a0l4L0000005iRRQAY,PRO-001905
 Pillswood BESS Phase 2,Harmony (PW) 2 Limited,Creyke Beck GSP,,49.9,0,49.9,,Built,Embedded,NGET,Energy Storage System,a0l4L0000005iRSQAY,PRO-001906
-Pines Burn Wind Farm,PINES BURN WIND FARM LLP,Hawick 132/33kV,,0,50,50,2023-08-02,Consents Approved,Embedded,SPT,Wind Onshore,a0l4L0000005iQoQAI,PRO-000897
+Pines Burn Wind Farm,PINES BURN WIND FARM LLP,Hawick GSP,,0,50,50,2023-08-02,Consents Approved,Embedded,SPT,Wind Onshore,a0l4L0000005iQoQAI,PRO-000897
 Pitkerro Road,Vital Energi Solutions Limited,Milton of Craigie GSP,,0,49.9,49.9,2033-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l4L0000005iWwQAI,PRO-002457
 Pitlochry (part of the Clunie Cascade),SSE GENERATION LIMITED,Pitlochry (Clunie Cascade Hydro Scheme),,15,0,15,,Built,Embedded,SHET,Hydro,a0l4L0000005iVZQAY,PRO-000179
 Pittlesheugh Farm,C A Ramsay Partnership,Eccles 132kV Substation,,0,340,340,2030-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L000002yQXdQAM,PRO-002547
@@ -1402,8 +1422,8 @@ Plymouth Main,VIRIDIS 178 LIMITED,Landulph GSP,,25.52,0,25.52,,Built,Embedded,NG
 Plymouth Rock,VIRIDIS 178 LIMITED,Landulph GSP,,15.08,0,15.08,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iUmQAI,PRO-000363
 Pogbie Wind Farm,POGBIE WIND FARM (GRID) LIMITED,Pogbie 33kV,,9.6,0,9.6,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005irKQAQ,PRO-000263
 Pond Flexible Energy Park,Pond Flexible Energy Park Limited,Bathgate 132/33kV Substation,,0,200,200,2031-06-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000000TPDMAA4,PRO-003201
-Pond Hill Farm 1,PD688IRO LTD,Minety 400kV Substation,,0,47.5,47.5,2025-04-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixqQAA,PRO-001637
-Pond Hill Farm 2 BESS,PD688IRO LTD,Minety 400kV Substation,,0,47.5,47.5,2025-05-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixzQAA,PRO-001635
+Pond Hill Farm 1,PD688IRO LTD,Minety 400kV Substation,,0,47.5,47.5,2025-04-30,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixqQAA,PRO-001637
+Pond Hill Farm 2 BESS,PD688IRO LTD,Minety 400kV Substation,,0,47.5,47.5,2025-05-31,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixzQAA,PRO-001635
 Poppleton PV & BESS Sub,YORK ENERGY PARK LIMITED,Thormanby 400kV Substation,,0,249.9,249.9,2035-10-24,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wV5AAI,PRO-002642
 Port of Mostyn,MOSTYN SEAPOWER LIMITED,Connah's Quay 400kV Substation,,0,210,210,2027-04-01,Scoping,Direct Connection,NGET,Tidal,a0l4L0000005imFQAQ,PRO-000421
 Portwind,SOURCE ENERGIE LIMITED,Chickerell 400kV Substation,,0,2500,2500,2036-12-06,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Offshore,a0l4L0000005ibKQAQ,PRO-002046
@@ -1448,6 +1468,7 @@ Recell at Penrhos (BEGA),Recell Energy Bloom Developments Limited,Penrhos GSP,1,
 Recell at Penrhos (BEGA),Recell Energy Bloom Developments Limited,Penrhos GSP,2,0,60,210,2027-10-31,Consents Approved,Embedded,NGET,Biomass,a0l4L0000005iWNQAY,PRO-000330-2
 Red Hill Energy Park,Renewable Energy Systems Limited,Monk Fryston 400kV Substation,,0,800,800,2035-10-24,Scoping,Direct Connection,NGET,Demand;Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005j1oQAA,PRO-002482
 Red House Farm - Friston 400kV 249MW connection,CAMBRIDGE POWER LIMITED,Friston 400kV Substation,,0,249,249,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000ez2cAAA,PRO-003787
+Red John PSH,STATKRAFT HIGHLANDS PSH LIMITED,Red John 275kV Switching Station,2,0,100,550,2032-10-31,Scoping,Direct Connection,SHET,Pump Storage,a0l4L0000005iqQQAQ,PRO-000570-2
 Red John PSH,STATKRAFT HIGHLANDS PSH LIMITED,Red John 275kV Switching Station,,0,450,450,2028-07-31,Scoping,Direct Connection,SHET,Pump Storage,a0l4L0000005iqQQAQ,PRO-000570
 Red Moss Farm,Greenswitch Capital Limited,Red Moss GSP,,0,300,300,2030-10-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e0000010wSfAAI,PRO-002613
 Redditch,CINERGY GLOBAL POWER (UK) LIMITED,Feckenham GSP,,29,0,29,,Built,Embedded,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005iViQAI,PRO-000198
@@ -1476,7 +1497,7 @@ Roosecote,CBS ENERGY STORAGE ASSETS UK LIMITED,Roosecote 132kV Substation,,49,0,
 Rosefield,Rosefield Energyfarm Limited,East Claydon 400kV Substation,,0,500,500,2031-10-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iwIQAQ,PRO-001044
 Rothienorman 50MW BESS,Rothienorman Flexpower A Ltd,Rothienorman GSP,,0,50,50,2024-10-31,Scoping,Embedded,SHET,Energy Storage System,a0l4L0000005iWjQAI,PRO-002300
 Rothienorman Battery,Rothienorman Flexpower A Ltd,Rothienorman 400kV Substation,,0,500,500,2033-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005iZ1QAI,PRO-001971
-Rothienorman Sync Comp,ROTHIENORMAN GRID SERVICES LIMITED,Rothienorman 400kV Substation,,0,0,0,2024-03-31,Consents Approved,Direct Connection,SHET,Reactive Compensation,a0l4L0000005ibtQAA,PRO-001445
+Rothienorman Sync Comp,ROTHIENORMAN GRID SERVICES LIMITED,Rothienorman 400kV Substation,,0,0,0,2024-10-31,Consents Approved,Direct Connection,SHET,Reactive Compensation,a0l4L0000005ibtQAA,PRO-001445
 Rowan Wind Energyfarm,ENERGYFARM ROWAN LLP,Crossaig 132kV Substation,,90.8,0,90.8,2034-10-31,Scoping,Direct Connection,SHET,Energy Storage System;Wind Onshore,a0l8e000000f41TAAQ,PRO-003823
 Rowancraig Wind Farm,Koehler Renewable Energy UK Limited,Glenglass 132/33kV,,0,40,40,2028-10-30,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005iMUQAY,PRO-002455
 Rugby High Impact Green Energy Hub (HIGEH) 1,TELIS ENERGY UK LIMITED,Enderby 400kV Substation,,0,1000,1000,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System;Nuclear;PV Array (Photo Voltaic/solar);Wind Onshore,a0l8e00000120NcAAI,PRO-003626
@@ -1505,7 +1526,7 @@ Sandy Knowe Wind Farm,SANDY KNOWE WIND FARM LIMITED,Sandyknowe 132/33kV,2,0,21.6
 Sanquhar II Wind Farm,SANQUHAR II COMMUNITY WIND CO LTD,Sanquhar 132/33kV,,0,250,250,2024-04-30,Consents Approved,Direct Connection,SPT,Wind Onshore,a0l4L0000005it6QAA,PRO-000352
 Sanquhar Wind Farm,SANQUHAR COMMUNITY WIND COMPANY LIMITED,Sanquhar 132/33kV,,30,0,30,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005iZ8QAI,PRO-001366
 Scaraben Offshore Wind Farm,BLUEFLOAT ENERGY UK HOLDINGS LIMITED,Scaraben 132kV Offshore Substation,,0,100,100,2033-10-31,Scoping,Direct Connection,SHET,Wind Offshore,a0l4L0000005iulQAA,PRO-002401
-Scarning,CONNECTID 3 LIMITED,Scarning 400kV Substation,,0,1400,1400,2034-10-31,Scoping,Direct Connection,NGET,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,a0l8e000000TPN2AAO,PRO-003275
+Scarning,CONNECTID 3 LIMITED,North Anglia Connection Node C 400kV Substation,,0,800,800,2034-10-31,Scoping,Direct Connection,NGET,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,a0l8e000000TPN2AAO,PRO-003275
 Scatsta Greener Grid Park,STATKRAFT UK LTD,Scatsta 132kV,,0,49.9,49.9,2028-10-31,Scoping,Direct Connection,SHET,Demand;Energy Storage System,a0l4L0000005iYqQAI,PRO-001955
 Scatsta1 Greener Grid Park,STATKRAFT UK LTD,Scatsta 132kV,,0,5,5,2028-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e0000010wXpAAI,PRO-002669
 Scaw Law Wind Farm,ORSTED ONSHORE UK LIMITED,Scaw Law 132kV substation,,0,60,60,2036-10-31,Scoping,Direct Connection,SPT,Energy Storage System;Wind Onshore,a0l8e000001Hr2mAAC,PRO-004174
@@ -1563,7 +1584,7 @@ Sofia Offshore Wind Farm,SOFIA OFFSHORE WIND FARM LIMITED,Dogger Bank 220kV Offs
 Solomons Farm BESS,Bluestone Energy Ltd,Kingsnorth GSP,,0,240,240,2030-10-31,Scoping,Embedded,NGET,Energy Storage System,a0l8e000000TPBQAA4,PRO-003181
 Solutia,UK POWER RESERVE LIMITED,Uskmouth 132kV Substation,,10,0,10,,Built,Embedded,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005izhQAA,PRO-000265
 Solwaybank,SOLWAYBANK ENERGY LIMITED,Chapelcross 132/33kV,,29.9,0,29.9,,Built,Embedded,SPT,Wind Onshore,a0l4L0000005iV4QAI,PRO-000048
-Somerford,PD813ETY LTD,Minety 400kV Substation,,0,47.5,47.5,2025-06-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ixeQAA,PRO-001631
+Somerford,PD813ETY LTD,Minety 400kV Substation,,0,47.5,47.5,2025-06-30,Consents Approved,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ixeQAA,PRO-001631
 Somerset Energy Park,LOW CARBON SOLAR PARK 35 LIMITED,Somerset Energy Park Substation,,0,500,500,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000011yGUAAY,PRO-003512
 South Brook,DALIA HOLDINGS LTD,Melksham 400kV Substation,,0,35.5,35.5,2037-06-28,Awaiting Consents,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iwKQAQ,PRO-002402
 South Humber Bank,EP SHB LIMITED,South Humber Bank 400kV Substation,,1365,0,1365,,Built,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005itwQAA,PRO-000366
@@ -1627,6 +1648,7 @@ Stranoch Wind Farm,Stranoch Windfarm Limited,Stranoch Wind 132/33kV Substation,,
 StrataStore - Cheshire Energy Storage Facility,KISTOS ENERGY STORAGE LTD,Gorstage 400kV Substation,,0,200,200,2037-11-30,Scoping,Direct Connection,NGET,Energy Storage System;Reactive Compensation,a0l8e000000f6K5AAI,PRO-003978
 Strath Tirry,Strath Tirry Wind Energy 2021 Ltd,Lairg GSP,1,0,20,20,2025-10-31,Scoping,Embedded,SHET,Energy Storage System;Wind Onshore,a0l4L0000005iXpQAI,PRO-001363-1
 Strath Tirry,Strath Tirry Wind Energy 2021 Ltd,Lairg GSP,2,0,14.8,34.8,2027-09-30,Scoping,Embedded,SHET,Energy Storage System;Wind Onshore,a0l4L0000005iXpQAI,PRO-001363-2
+Strathaven BESS,IGP ENERGY STORAGE 2 LIMITED,Strathaven 400/275/33kV,,0,300,300,2033-10-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000001HxmCAAS,PRO-004298
 Strathrory Wind Farm,ENERGYFARM UK STRATHRORY LLP,Alness GSP,,0,36,36,2024-03-31,Consents Approved,Embedded,SHET,Wind Onshore,a0l4L0000005iUPQAY,PRO-001812
 Strathy North Wind,STRATHY WIND FARM LIMITED,Strathy North 132/33kV Substation,,67.65,0,67.65,,Built,Direct Connection,SHET,Wind Onshore,a0l4L0000005ihRQAQ,PRO-001553
 Strathy South Wind,SSE GENERATION LIMITED,Strathy South 132/33kV Substation,,0,207.6,207.6,2027-04-25,Scoping,Direct Connection,SHET,Wind Onshore,a0l4L0000005ix6QAA,PRO-000183
@@ -1635,7 +1657,7 @@ Strathy Wood,RWE RENEWABLES UK ONSHORE WIND LIMITED,Strathy Wood 132/33kV Substa
 Strichen North BESS,MUIRDEN ENERGY LLP,Strichen GSP,,0,25,25,2033-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l8e000001Hr31AAC,PRO-004177
 Stronelairg,STRONELAIRG WIND FARM LIMITED,Stronelairg 132/33kV Substation,,227.8,0,227.8,,Built,Direct Connection,SHET,Wind Onshore,a0l4L0000005ipUQAQ,PRO-000184
 Sudmeadow,VIRIDIS 178 LIMITED,Port Ham 132kV Substation,,41.76,0,41.76,,Built,Embedded,NGET,Thermal,a0l4L0000005iVsQAI,PRO-000243
-Sulgrave Solar PV,EDF ENERGY RENEWABLES LIMITED,East Claydon GSP (SEPD),,0,129.8,129.8,2026-10-30,Scoping,Direct Connection,NGET,PV Array (Photo Voltaic/solar),a0l4L0000005iXOQAY,PRO-001572
+Sulgrave Solar PV,EDF ENERGY RENEWABLES LIMITED,East Claydon GSP (SEPD),,0,129.8,129.8,2026-10-30,Scoping,Embedded,NGET,PV Array (Photo Voltaic/solar),a0l4L0000005iXOQAY,PRO-001572
 Summerston  PV 50MW,Bluestone Energy Ltd,Killermont 132/33kV,,0,50,100,2031-06-30,Scoping,Embedded,SPT,PV Array (Photo Voltaic/solar),a0l8e000000TPDCAA4,PRO-003199
 Sunbury BESS,SUNBURY BESS LTD,Laleham GSP (SEPD),,0,200,200,2031-02-24,Scoping,Embedded,NGET,Energy Storage System,a0l4L0000005iQRQAY,PRO-001883
 Sundhope Wind Farm,Sundhope Energy Limited,Sundhope 132kV Substation,,0,180,180,2033-05-30,Scoping,Direct Connection,SPT,Wind Onshore,a0l8e0000010wgPAAQ,PRO-002767
@@ -1684,7 +1706,7 @@ Templeton BESS,Fig Power Limited,Lyndhurst 132/33kV,2,0,19.9,49.9,2031-10-31,Sco
 Teviot Wind Farm,TEVIOT WF LIMITED,Teviot Wind Farm Substation,,0,522.9,522.9,2033-05-30,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005iPbQAI,PRO-000855
 Tewitt Farm BESS,Apatura Battery Ltd,Bradford West GSP,,0,200,200,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000f5BdAAI,PRO-003917
 TH Bridge Farm,FRV TH Powertek Limited,Imperial Park B 400kV Substation,,0,400,400,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000TPS9AAO,PRO-003425
-TH Didcot,FRV TH Powertek Limited,Chiltern Connection Node A 400kV,,0,200,200,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000TPSDAA4,PRO-003426
+TH Didcot,FRV TH Powertek Limited,Chiltern Connection Node D 400kV,,0,200,200,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000TPSDAA4,PRO-003426
 TH Knaresborough,FRV TH Powertek Limited,Leeds North Connection Node A 400kV Substation,,0,200,200,2036-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000001HpdtAAC,PRO-004131
 TH Maes Melin,FRV TH Powertek Limited,South Wales West Connection Node A 400kV Substation,,0,200,200,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000TPS8AAO,PRO-003424
 TH Ninfield,FRV TH Powertek Limited,Ninfield GSP,,0,200,200,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000001HpCfAAK,PRO-004111
@@ -1777,14 +1799,14 @@ Waltham Cross BESS,ENSO GREEN HOLDINGS LIMITED,Waltham Cross GSP,,0,57,57,2028-0
 Waltham Cross BESS,SHAW-ENERGI LTD,Waltham Cross 400kV Substation,,0,300,300,2033-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000ewXcAAI,PRO-003665
 Waltham Cross Farm,Waltham Cross 2 Renewables Limited,Waltham Cross 400kV Substation,,0,200,200,2033-04-04,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wZHAAY,PRO-002687
 Waltham Cross Farm 2,Waltham Cross 7 Renewables Limited,Waltham Cross B 400kV Substation,,0,700,700,2033-04-04,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wedAAA,PRO-002748
-Waltham Cross PV & BESS Sub,EPPING ENERGY PARK LIMITED,Waltham Cross 400kV Substation,,0,249.9,249.9,2032-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0lJ9000000PERuIAO,PRO-005801
+Waltham Cross PV & BESS Sub,EPPING ENERGY PARK LIMITED,Waltham Cross B 400kV Substation,,0,249.9,249.9,2032-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0lJ9000000PERuIAO,PRO-005801
 Warley,WARLEY BATTERY STORAGE,Warley 275kV Substation,,0,57,57,2027-08-31,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005ifhQAA,PRO-001113
 Warley (tertiary),WARLEY GREEN LIMITED,Warley 275kV Substation,1,0,49.9,49.9,2023-07-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iplQAA,PRO-000555-1
 Warley (tertiary),WARLEY GREEN LIMITED,Warley 275kV Substation,2,0,7.1,57,2024-06-28,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iplQAA,PRO-000555-2
 Warley 2,CSE26 LIMITED,Warley 275kV Substation,1,0,150,150,2029-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iPFQAY,PRO-001848-1
 Warley 2,CSE26 LIMITED,Warley 275kV Substation,2,0,50,200,2033-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iPFQAY,PRO-001848-2
 Warley Battery Energy Storage,ABBEY PROPERTIES CAMBRIDGESHIRE LIMITED,Warley 275kV Substation,,0,200,200,2029-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iwpQAA,PRO-002321
-Warley PV & BESS,O&G Solar (SPV 36) Limited,Warley 275kV Substation,,0,249.9,249.9,2031-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L000002yQWQQA2,PRO-002537
+Warley PV & BESS,O&G Solar (SPV 36) Limited,Warley 275kV Substation,,0,249.9,249.9,2031-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L000002yQWQQA2,PRO-002537
 Watchman Energy Park,RENEWCO POWER LIMITED,Elvanfoot 275/132/33kV,,0,249.9,249.9,2036-10-31,Scoping,Direct Connection,SPT,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,a0l8e000001HxRXAA0,PRO-004258
 Water Lane,VIRIDIS 178 LIMITED,Exeter GSP,,20.88,0,20.88,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iVrQAI,PRO-000241
 Water Orton,VOLTWISE POWER HOLDINGS LIMITED,Warwickshire Connection Node F 132kV Substation,,0,150,150,2037-10-30,Scoping,Embedded,NGET,Energy Storage System,a0l8e0000012hwWAAQ,PRO-004564
@@ -1828,12 +1850,12 @@ WHITEHILL BESS,GPC 1210 Ltd,Whitehill Bess 275/132kV Substation,,0,500,500,2029-
 Whitehill Estate BESS 60MW,GPC 013 LTD,Drumchapel 275/33kV,,0,60,60,2028-10-16,Scoping,Embedded,SPT,Energy Storage System,a0l8e000000TPRoAAO,PRO-003420
 Whitehouse BESS station,IGP INTERNATIONAL PROSPECTING LIMITED,Crossaig 132kV Substation,,0,249,249,2034-10-31,Scoping,Direct Connection,SHET,Demand;Energy Storage System,a0l4L0000005iu6QAA,PRO-002237
 Whitelaw Brae BESS,BUK23 Limited,Whitelaw Brae B 33kV Substation,,0,1,1,2026-07-31,Scoping,Direct Connection,SPT,Energy Storage System,a0l8e000000TPIWAA4,PRO-003247
-Whitelaw Brae Windfarm,WHITELAW BRAE WINDFARM LIMITED,Whitelaw Brae 'A' and 'B' 33kV Substations,,0,57,57,2024-06-28,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005isxQAA,PRO-000341
-Whitelee,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Whitelee 275/33kV,1,305,0,305,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005imeQAA,PRO-000067-1
-Whitelee,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Whitelee 275/33kV,2,0,355,660,2029-06-15,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005imeQAA,PRO-000067-2
+Whitelaw Brae Windfarm,WHITELAW BRAE WINDFARM LIMITED,Whitelaw Brae 'A' and 'B' 33kV Substations,,0,57,57,2026-07-31,Scoping,Direct Connection,SPT,Wind Onshore,a0l4L0000005isxQAA,PRO-000341
+Whitelee,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Whitelee 275/33kV,1,305,0,305,,Built,Direct Connection,SPT,Energy Storage System;Wind Onshore,a0l4L0000005imeQAA,PRO-000067-1
+Whitelee,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Whitelee 275/33kV,2,0,355,660,2029-06-15,Scoping,Direct Connection,SPT,Energy Storage System;Wind Onshore,a0l4L0000005imeQAA,PRO-000067-2
 Whitelee Extension,SCOTTISHPOWER RENEWABLES (UK) LIMITED,Whitelee Extension 275/33kV,,206,32,238,2023-03-31,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005imfQAA,PRO-000068
 Whiteleigh Farm,Greenswitch Capital Limited,Pyworthy 400kV Substation,,0,300,300,2036-12-06,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iMIQAY,PRO-002385
-Whiteminhill Renewable Energy Park,VOLTALIA UK LTD,Mark Hill 33kV,,0,220,220,2036-10-31,Scoping,Direct Connection,SPT,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,a0l8e000000ewwdAAA,PRO-003693
+Whiteminhill Renewable Energy Park,VOLTALIA UK LTD,Mark Hill 275/33kV,,0,220,220,2036-10-31,Scoping,Direct Connection,SPT,Energy Storage System;PV Array (Photo Voltaic/solar);Wind Onshore,a0l8e000000ewwdAAA,PRO-003693
 Whiteside Hill Wind Farm,WHITESIDE HILL WINDFARM (SCOTLAND) LIMITED,Glenglass 132/33kV,,27,0,27,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005irLQAQ,PRO-000267
 Whitson,PIVOTED POWER LLP,Whitson 275kV Substation,,0,49.9,49.9,2026-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ieFQAQ,PRO-001061
 Whitson BESS,FIELD DEVCO LTD,Whitson 275kV Substation,,0,150,150,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000f4iOAAQ,PRO-003862
@@ -1853,11 +1875,11 @@ Wilton,SEMBCORP UTILITIES (UK) LIMITED,Greystones A 275kV Substation,,141,0,141,
 Windy Rig Wind Farm,WINDY RIG WIND FARM LIMITED,Blackhill 132/33kV,,42.8,0,42.8,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005iloQAA,PRO-000374
 Windy Standard II (Brockloch Rig) Wind Farm,BROCKLOCH RIG WINDFARM LIMITED,Dun Hill 132/33kV,1,61.5,0,61.5,,Built,Direct Connection,SPT,Wind Onshore,a0l4L0000005iqjQAA,PRO-000233-1
 Windy Standard II (Brockloch Rig) Wind Farm,BROCKLOCH RIG WINDFARM LIMITED,Dun Hill 132/33kV,2,0,13.5,75,2024-06-30,Consents Approved,Direct Connection,SPT,Wind Onshore,a0l4L0000005iqjQAA,PRO-000233-2
-Windy Standard III Wind Farm,Windy Standard III Ltd,Dun Hill 132/33kV,1,0,43.5,43.5,2024-06-30,Awaiting Consents,Direct Connection,SPT,Wind Onshore,a0l4L0000005iteQAA,PRO-000359-1
-Windy Standard III Wind Farm,Windy Standard III Ltd,Dun Hill 132/33kV,2,0,42,85.5,2024-06-30,Awaiting Consents,Direct Connection,SPT,Wind Onshore,a0l4L0000005iteQAA,PRO-000359-2
-Windy Standard III Wind Farm,Windy Standard III Ltd,Dun Hill 132/33kV,3,0,10.5,96,2029-06-30,Awaiting Consents,Direct Connection,SPT,Wind Onshore,a0l4L0000005iteQAA,PRO-000359-3
-WindyHill BESS2 Facility,ENERGYGRIDPOWER LTD,Windyhill 275/132kV,,0,200,200,2024-09-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005ib7QAA,PRO-002032
-WindyHill Energy Storage Facility,ENERGYGRIDPOWER LTD,Windyhill 275/132kV,,0,200,200,2024-07-30,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005iesQAA,PRO-001696
+Windy Standard III Wind Farm,Windy Standard III Ltd,Dun Hill 132/33kV,1,0,43.5,43.5,2026-06-01,Awaiting Consents,Direct Connection,SPT,Wind Onshore,a0l4L0000005iteQAA,PRO-000359-1
+Windy Standard III Wind Farm,Windy Standard III Ltd,Dun Hill 132/33kV,2,0,42,85.5,2026-06-01,Awaiting Consents,Direct Connection,SPT,Wind Onshore,a0l4L0000005iteQAA,PRO-000359-2
+Windy Standard III Wind Farm,Windy Standard III Ltd,Dun Hill 132/33kV,3,0,10.5,96,2026-06-01,Awaiting Consents,Direct Connection,SPT,Wind Onshore,a0l4L0000005iteQAA,PRO-000359-3
+WindyHill BESS2 Facility,ENERGYGRIDPOWER LTD,Windyhill 275/132kV,,0,200,200,2025-07-27,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005ib7QAA,PRO-002032
+WindyHill Energy Storage Facility,ENERGYGRIDPOWER LTD,Windyhill 275/132kV,,0,200,200,2025-08-27,Scoping,Direct Connection,SPT,Energy Storage System,a0l4L0000005iesQAA,PRO-001696
 Wishaw Energy Storage Facility,ZENOBE WISHAW LIMITED,Wishaw 400/275/132/33kV,,49.95,0,49.95,,Built,Direct Connection,SPT,Energy Storage System,a0l4L0000005ixRQAQ,PRO-001433
 Woburn Solar Farm,SolarThree Ltd,Dunstable 400kV Substation,,0,840,840,2031-10-31,Scoping,Direct Connection,NGET,PV Array (Photo Voltaic/solar),a0l8e0000010x0FAAQ,PRO-003033
 Womblehill BESS Farm,RE Projects Development Limited,Womblehill BESS Farm 132kV,,0,200,200,2029-10-31,Scoping,Direct Connection,SHET,Energy Storage System,a0l4L0000005itjQAA,PRO-002197
@@ -1879,7 +1901,7 @@ Wymondley Solar Farm,AGR SOLAR 4 LIMITED,Wymondley 400kV Substation,,0,49.995,49
 Wyseby Hill Energy Farm,WYSEBYHILL ENERGY FARM LIMITED,Wyseby Hill Energy Farm 400kV Substation,,0,750,750,2031-10-31,Scoping,Direct Connection,SPT,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iQSQAY,PRO-001884
 Y Bryn Wind Farm,Y BRYN WIND FARM LIMITED,Margam GSP,,0,151.2,151.2,2029-05-10,Scoping,Direct Connection,NGET,Wind Onshore,a0l4L0000005ib4QAA,PRO-002029
 Yaxley,CONNECTID 2 LIMITED,North Anglia Connection Node E 400kV Substation,,0,520,520,2034-10-31,Scoping,Direct Connection,NGET,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,a0l8e000000TPMiAAO,PRO-003272
-Yaxley BESS,FIELD DEVCO LTD,Yaxley 400kV Substation,,0,200,200,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000f6ABAAY,PRO-003964
+Yaxley BESS,FIELD DEVCO LTD,North Anglia Connection Node E 400kV Substation,,0,200,200,2034-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000f6ABAAY,PRO-003964
 Yaxley Farm,548 UK INVESTMENT HOLDINGS LIMITED,Yaxley 400kV Substation,,0,200,200,2032-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000010wZMAAY,PRO-002688
 Yaxley GEC (Ethos Green),YAXLEY GREEN ENERGY CENTRE LTD,Yaxley 400kV Substation,,0,450,450,2031-10-31,Awaiting Consents,Direct Connection,NGET,Demand;Energy Storage System;PV Array (Photo Voltaic/solar);Reactive Compensation,a0l8e000000f5YCAAY,PRO-003935
 Zenobe Blackhillock 300 MW,ZENOBE BLACKHILLOCK LIMITED,Blackhillock 275kV Substation,1,0,200,200,2024-02-01,Consents Approved,Direct Connection,SHET,Energy Storage System,a0l4L0000005iNTQAY,PRO-001624-1
@@ -1898,4 +1920,4 @@ Zenobe Norton,ZENOBE ENERGY LIMITED,Norton 400kV Substation,,0,150,150,2031-10-3
 Zenobe Spennymoor BESS,ZENOBE ENERGY LIMITED,Spennymoor 400kV Substation,,0,330,330,2035-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000ewwYAAQ,PRO-003692
 Zenobe Stalybridge Project,ZENOBE ENERGY LIMITED,Stalybridge 275kV Substation,,0,150,150,2026-09-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iuVQAQ,PRO-001940
 Zenobe Thornton BESS,ZENOBE ENERGY LIMITED,Thornton 400kV Substation,,0,330,330,2035-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000000ewwTAAQ,PRO-003691
-Zenobe Yaxley BESS,ZENOBE ENERGY LIMITED,Yaxley 400kV Substation,,0,300,300,2035-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000001HodGAAS,PRO-004088
+Zenobe Yaxley BESS,ZENOBE ENERGY LIMITED,North Anglia Connection Node E 400kV Substation,,0,300,300,2035-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000001HodGAAS,PRO-004088
