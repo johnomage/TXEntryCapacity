@@ -62,8 +62,8 @@ def extract_last_date_updated():
         soup = BeautifulSoup(response.text, "lxml")
 
         # Extract the text from the target element using the provided selector
-        last_updated = soup.select(selector)
-        extracted_texts = [element.text.strip() for element in last_updated if element.name == "td" and "ago" in element.text]
+        last_updated = soup.find_all('td', class_="views-field views-field-title")
+        extracted_texts = [element.text.split('-')[1].strip() for element in last_updated]
 
         return extracted_texts[0] if extracted_texts else "Element not found"
 
