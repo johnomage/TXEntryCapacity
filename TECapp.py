@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
-from data_loader import download_data, preprocess_df, extract_last_date_updated
+from data_loader import download_data, preprocess_df, extract_last_date_updated, get_date_range
 import artist
 
 
@@ -21,16 +21,17 @@ st.set_page_config(
 )
 
 
-# set page title
-st.title(f":bulb: NESO Transmission Entry Capacity Register Dashboard: 2019 - 2038\nData Last Updated: {extract_last_date_updated()}")
-
-
 # Fetch data
 @st.cache_data
 def load_data():
     return preprocess_df(download_data())
 
 raw_data = load_data()
+
+# set page title
+st.title(f":bulb: NESO Transmission Entry Capacity Register Dashboard: {get_date_range(raw_data)}\n \
+          Data Last Updated: {extract_last_date_updated()}")
+
 
 
 
@@ -88,7 +89,7 @@ project_count_card, to_count_card, mw_change_card, connect_cap_card = st.columns
 with project_count_card:
     format_MW_GW(data.shape[0], 'Total Projects', False)
 with to_count_card:
-    format_MW_GW(data['HOST TO'].nunique(), 'Transmission Owners', False)
+    format_MW_GW(data['HOST TO'].nunique(), 'Network Owners', False)
 with mw_change_card:
     format_MW_GW(data['MW Change'].sum(), 'Capacity Change')
 with connect_cap_card:

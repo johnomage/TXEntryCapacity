@@ -60,7 +60,6 @@ def extract_last_date_updated():
         
         soup = BeautifulSoup(response.text, "lxml")
         extracted_texts = soup.find_all('td', class_="views-field views-field-title")
-
         last_updated = [element.text.split('-')[1].strip() for element in extracted_texts][0]
         
         return last_updated
@@ -92,4 +91,11 @@ def preprocess_df(df: pd.DataFrame):
                 },
                 inplace=True,
             )
+    
     return df
+
+
+def get_date_range(df):
+    min_year = df['Connection Date'].min().year
+    max_year = df['Connection Date'].max().year
+    return f'{min_year} - {max_year}'
