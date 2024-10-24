@@ -49,23 +49,17 @@ def extract_last_date_updated():
         List[str]: If a request error occurs, returns a list containing the error message.
     """
     url = 'https://www.neso.energy/data-portal/transmission-entry-capacity-tec-register'
-    selector = "div.layout-region-resources .views-field-changed.is-active"
-    
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
-    }
 
     try:
         # Fetch the webpage content
-        response = requests.get(url, headers=headers)
+        response = requests.get(url)
 
         soup = BeautifulSoup(response.text, "lxml")
 
-        # Extract the text from the target element using the provided selector
-        last_updated = soup.find_all('td', class_="views-field views-field-title")
-        extracted_texts = [element.text.split('-')[1].strip() for element in last_updated]
+        extracted_texts = soup.find_all('td', class_="views-field views-field-title")
+        last_updated = [element.text.split('-')[1].strip() for element in extracted_texts]
 
-        return extracted_texts[0] if extracted_texts else "Element not found"
+        return last_updated if last_updated else "unknown"
 
     except requests.RequestException as e:
         return [f"Error fetching the URL: {e}"]
