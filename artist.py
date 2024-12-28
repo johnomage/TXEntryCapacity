@@ -163,7 +163,7 @@ def plot_timelines(df):
 
 
 
-def plot_sunburst(df):
+def plot_sunburst(df: pd.DataFrame):
     """
     Create a sunburst chart to visualize connection capacity by HOST TO, plant type, and project status.
 
@@ -179,22 +179,32 @@ def plot_sunburst(df):
     """
     
     # Ensure relevant columns are of type string
-    df['HOST TO'] = df['HOST TO'].astype(str)
-    df['Plant Type'] = df['Plant Type'].astype(str)
-    df['Project Status'] = df['Project Status'].astype(str)
+    df = df.astype({'HOST TO': str, 'Plant Type': str, 'Project Status': str})
+
+    # Aggregate the data by the relevant fields
+    data = (df.groupby(["HOST TO", "Plant Type", "Project Status"])
+              .agg(Projects=('Project Name', 'size'), Connection_Cap_MW=('Connection Cap (MW)', 'sum'))
+              .reset_index())
+
+    # Calculate total projects at different levels for hover info
+    data['Total Projects'] = data.groupby(['HOST TO'])['Projects'].transform('sum')
+    data['Total Projects by Plant Type'] = data.groupby(['HOST TO', 'Plant Type'])['Projects'].transform('sum')
+    data["Connection Cap (GW)"] = data["Connection_Cap_MW"] / 1000
     
     colors = ["#800080", "#2B5D18", "#FFD700", "#2CFF05"]
+
     sun = px.sunburst(
-                    data_frame=df,
-                    values="Connection Cap (MW)",
+                    data_frame=data,
+                    values="Connection Cap (GW)",
                     color="HOST TO",
-                    color_discrete_sequence=colors * (df.shape[0] // 4 + 1),
+                    color_discrete_sequence=colors *  (len(data['HOST TO'].unique()) // 4 + 1),
                     path=["HOST TO", "Plant Type", "Project Status"],
-                    hover_data=["Project Name", "Connection Cap (MW)"],
-                    width=800,
-                    height=800,
+                    custom_data=["Projects", "Total Projects by Plant Type", "Connection Cap (GW)"], #["Projects", "Connection Cap (MW)"],
+                    width=800,height=800, 
                     title="Connection Capacity by Host TO, Plant Type, and Project Status. (click to Expand)",
                 )
+    sun.update_traces(hovertemplate="<b>%{label}</b><br>Projects: %{customdata[0]}<br>Total Projects: %{customdata[1]}<br>Connection Capacity: %{customdata[2]:.2f} GW<extra></extra>")
+    #sun.update_traces(hovertemplate="<b>%{label}</b><br>Projects: %{customdata[0]}<br>Connection Capacity: %{customdata[1]:.2f} GW<extra></extra>")
 
     return sun
 
