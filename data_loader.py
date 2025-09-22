@@ -59,10 +59,7 @@ def extract_last_date_updated():
             return "unknown, but less than 4 weeks"
         
         soup = BeautifulSoup(response.text, "lxml")
-        extracted_texts = soup.find_all('td', class_="views-field views-field-title")
-        last_updated = [element.text.split('-')[1].strip() for element in extracted_texts][0]
-        
-        return last_updated
+        return soup.find("time").text 
 
     except requests.RequestException as e:
         return f"Error fetching the URL"
