@@ -29,8 +29,7 @@ def load_data():
 raw_data = load_data()
 
 # set page title
-st.title(f":bulb: NESO Transmission Entry Capacity Register Dashboard: {get_date_range(raw_data)}\n \
-          Data Last Updated: {extract_last_date_updated()}")
+st.title(f":bulb: NESO Transmission Entry Capacity Register Dashboard: {get_date_range(raw_data)}\nData Last Updated: {extract_last_date_updated()}")
 
 
 
